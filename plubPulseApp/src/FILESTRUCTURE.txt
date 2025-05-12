@@ -1,0 +1,15 @@
+src/
+├── assets/          # Images, fonts, etc.
+├── components/      # Reusable UI components
+│   └── Button/
+│       ├── Button.js
+│       └── Button.css
+├── pages/           # Full-page components
+│   └── Home/
+│       └── Home.js
+├── layout/          # Shared layout (Header, Footer, etc.)
+├── routes/          # Routing definitions (optional)
+├── services/        # API calls or external logic
+├── utils/           # Utility functions
+├── App.js
+└── index.js

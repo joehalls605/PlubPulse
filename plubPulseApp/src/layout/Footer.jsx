@@ -1,0 +1,10 @@
+import React from 'react';
+
+const Footer = () => {
+    return(
+        <footer className="bg-light text-center py-3">
+            <p>&copy; 2025 Plab Pulse. All rights reserved.</p>
+        </footer>
+    );
+}
+export default Footer;
