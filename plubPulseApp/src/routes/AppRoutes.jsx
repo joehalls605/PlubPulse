@@ -3,6 +3,8 @@ import {Routes, Route} from 'react-router-dom';
 import Home from '../pages/Home';
 import Quiz from '../pages/Quiz';
 import Topics from '../pages/Topics';
+import PrivacyPolicy from '../pages/PrivacyPolicy';
+import TermsOfService from '../pages/TermsOfService';
 
 /*
 AppRoutes is used to define all the app's routes using react-router-dom
@@ -16,6 +18,8 @@ const AppRoutes = () => {
             <Route path="/" element={<Home />}/>
             <Route path="/quiz" element={<Quiz />}/>
             <Route path="/topics" element={<Topics />}/>
+            <Route path="/privacy-policy" element={<PrivacyPolicy />}/>
+            <Route path="/terms-of-service" element={<TermsOfService />}/>
         </Routes>
     )
 }

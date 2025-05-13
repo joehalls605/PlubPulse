@@ -1,5 +1,14 @@
 import React from 'react';
-// import {FaFaceBookF, FaTwitter, FaInstagram, FaLinkedIn} from '@fortawesome/react-fontawesome';
+import {Link} from "react-router-dom";
+import '../index.css';
+import { faBookMedical, faMapPin, faEnvelope } from "@fortawesome/free-solid-svg-icons";
+import {
+    faFacebookF,
+    faTwitter,
+    faInstagram,
+    faLinkedinIn,
+} from "@fortawesome/free-brands-svg-icons";
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 
 const Footer = () => {
     return(
@@ -10,7 +19,7 @@ const Footer = () => {
                     <div className="col-md-4">
                         <div className="d-flex align-items-center mb-3">
                             <span className="me-2">
-                                LOGO HERE
+                                <FontAwesomeIcon icon={faBookMedical}/>
                             </span>
                             <h5 className="fw-bold mb-0">
                                 <span className="text-primary">PLAB</span>Pulse
@@ -20,25 +29,33 @@ const Footer = () => {
                             PLAB Pulse provides comprehensive study materials and practice tests to help medical professionals prepare for the PLAB examination.
                         </p>
                         <div className="d-flex gap-3 mb-3">
-                            <a href="#" className="text-muted">FACEBOOKLOGO</a>
-                            <a href="#" className="text-muted">TWITTERLOGO</a>
-                            <a href="#" className="text-muted">INSTAGRAMLOGO</a>
-                            <a href="#" className="text-muted">LINKEDINLOGO</a>
+                            <a href="#" className="text-muted">
+                                <FontAwesomeIcon icon={faFacebookF} className="social-icon"/>
+                            </a>
+                            <a href="#" className="text-muted social-icon">
+                                <FontAwesomeIcon icon={faTwitter} className="social-icon"/>
+                            </a>
+                            <a href="#" className="text-muted social-icon">
+                                <FontAwesomeIcon icon={faInstagram} className="social-icon"/>
+                            </a>
+                            <a href="#" className="text-muted social-icon ">
+                                <FontAwesomeIcon icon={faLinkedinIn} className="social-icon"/>
+                            </a>
                         </div>
                     </div>
 
                     {/* Column 2: Quick Links */}
                     <div className="col-md-4">
-                        <h6 className="mb-3">Quick Links</h6>
+                    <h6 className="mb-3">Quick Links</h6>
                         <ul className="list-unstyled">
                             <li className="mb-2">
-                                LINK COMPONENT HERE SET UP HOME
+                                <Link to="/" className="footer-link">Home</Link>
                             </li>
                             <li className="mb-2">
-                                LINK COMPONENT HERE SET UP QUIZ
+                                <Link to="/quiz" className="footer-link">Quiz</Link>
                             </li>
                             <li className="mb-2">
-                                LINK COMPONENT HERE SET UP TOPICS
+                                <Link to="/topics" className="footer-link">Topics</Link>
                             </li>
                         </ul>
                     </div>
@@ -48,13 +65,13 @@ const Footer = () => {
                         <h6 className="mb-3">Contact</h6>
                         <div className="d-flex mb-2">
                             <span className="me-2">
-                                MAP ICON HERE
+                                <FontAwesomeIcon icon={faMapPin}/>
                             </span>
                             <span className="text-muted">London, United Kingdom</span>
                         </div>
                         <div className="d-flex mb-2">
                             <span>
-                                EMAIL ICON HERE
+                                <FontAwesomeIcon icon={faEnvelope}/>
                             </span>
                             <a href="mailto:contact@plabpulse.com" className="text-decoration-none text-muted">contact@plabpulse.com</a>
                         </div>
@@ -67,13 +84,14 @@ const Footer = () => {
                         <div className="col-md-6 text-center text-md-end">
                             <ul className="list-inline mb-0">
                                 <li className="list-inline-item">
-                                   PRIVACY POLICY LINK
+                                    <Link to="/privacy-policy" className="text-decoration-none footer-link">
+                                        <span>Privacy Policy</span>
+                                    </Link>
                                 </li>
                                 <li className="list-inline-item mx-3">
-                                    TERMS OF SERVICE LINK
-                                </li>
-                                <li className="list-inline-item">
-                                   COOKIES POLICY LINK
+                                    <Link to="/terms-of-service" className="text-decoration-none footer-link">
+                                        <span>Terms of service</span>
+                                    </Link>
                                 </li>
                             </ul>
                         </div>
