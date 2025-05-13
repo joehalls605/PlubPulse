@@ -1,0 +1,332 @@
+[
+  {
+    "topic": "Cardiology",
+    "question": "Which heart valve is most commonly affected in rheumatic heart disease?",
+    "options": [
+      "Mitral",
+      "Aortic",
+      "Tricuspid",
+      "Pulmonary"
+    ],
+    "correctAnswer": "Mitral"
+  },
+  {
+    "topic": "Cardiology",
+    "question": "Which of the following medications is commonly used to treat heart failure with reduced ejection fraction?",
+    "options": [
+      "Lisinopril",
+      "Amlodipine",
+      "Atorvastatin",
+      "Furosemide"
+    ],
+    "correctAnswer": "Lisinopril"
+  },
+  {
+    "topic": "Ethics",
+    "question": "Which principle relates to distributing healthcare resources fairly?",
+    "options": [
+      "Justice",
+      "Fidelity",
+      "Veracity",
+      "Autonomy"
+    ],
+    "correctAnswer": "Justice"
+  },
+  {
+    "topic": "Cardiology",
+    "question": "Which ECG finding is characteristic of a myocardial infarction?",
+    "options": [
+      "ST elevation",
+      "T wave flattening",
+      "U waves",
+      "Shortened PR interval"
+    ],
+    "correctAnswer": "ST elevation"
+  },
+  {
+    "topic": "Ethics",
+    "question": "What does the principle of beneficence require a physician to do?",
+    "options": [
+      "Do good for the patient",
+      "Avoid lawsuits",
+      "Keep secrets",
+      "Follow patient instructions at all times"
+    ],
+    "correctAnswer": "Do good for the patient"
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which class of drugs is used to reduce cholesterol levels?",
+    "options": [
+      "Beta-blockers",
+      "Statins",
+      "ACE inhibitors",
+      "Diuretics"
+    ],
+    "correctAnswer": "Statins"
+  },
+  {
+    "topic": "Ethics",
+    "question": "What is the best ethical response when a patient refuses life-saving treatment?",
+    "options": [
+      "Force treatment",
+      "Respect their autonomy",
+      "Call the police",
+      "Ignore the patient"
+    ],
+    "correctAnswer": "Respect their autonomy"
+  },
+  {
+    "topic": "Neurology",
+    "question": "Which type of seizure involves loss of consciousness and convulsions?",
+    "options": [
+      "Absence",
+      "Focal",
+      "Myoclonic",
+      "Tonic-clonic"
+    ],
+    "correctAnswer": "Tonic-clonic"
+  },
+  {
+    "topic": "Neurology",
+    "question": "What is the hallmark symptom of multiple sclerosis?",
+    "options": [
+      "Progressive memory loss",
+      "Muscle rigidity",
+      "Relapsing-remitting neurological deficits",
+      "Facial droop"
+    ],
+    "correctAnswer": "Relapsing-remitting neurological deficits"
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which condition is characterized by hyperthyroidism, goiter, and exophthalmos?",
+    "options": [
+      "Hashimoto's thyroiditis",
+      "Cushing's syndrome",
+      "Graves' disease",
+      "Addison's disease"
+    ],
+    "correctAnswer": "Graves' disease"
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "What is the primary function of insulin?",
+    "options": [
+      "Increase blood glucose",
+      "Promote fat breakdown",
+      "Lower blood glucose",
+      "Stimulate cortisol release"
+    ],
+    "correctAnswer": "Lower blood glucose"
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which drug is an example of a non-steroidal anti-inflammatory drug (NSAID)?",
+    "options": [
+      "Ibuprofen",
+      "Paracetamol",
+      "Prednisone",
+      "Ciprofloxacin"
+    ],
+    "correctAnswer": "Ibuprofen"
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following is a side effect of aminoglycosides?",
+    "options": [
+      "Ototoxicity",
+      "Hepatotoxicity",
+      "Gynecomastia",
+      "Hypokalemia"
+    ],
+    "correctAnswer": "Ototoxicity"
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "What hormone is produced by the adrenal medulla?",
+    "options": [
+      "Cortisol",
+      "Aldosterone",
+      "Epinephrine",
+      "ACTH"
+    ],
+    "correctAnswer": "Epinephrine"
+  },
+  {
+    "topic": "Neurology",
+    "question": "Which cranial nerve is responsible for facial movement?",
+    "options": [
+      "Trigeminal",
+      "Facial",
+      "Glossopharyngeal",
+      "Accessory"
+    ],
+    "correctAnswer": "Facial"
+  },
+  {
+    "topic": "Cardiology",
+    "question": "Which arrhythmia is characterized by a narrow complex tachycardia with no visible P waves?",
+    "options": [
+      "Atrial fibrillation",
+      "Ventricular tachycardia",
+      "First-degree AV block",
+      "Sinus bradycardia"
+    ],
+    "correctAnswer": "Atrial fibrillation"
+  },
+  {
+    "topic": "Cardiology",
+    "question": "Which of the following is a classic symptom of angina pectoris?",
+    "options": [
+      "Sharp, stabbing pain unrelated to exertion",
+      "Substernal pressure that radiates to the left arm",
+      "Pleuritic chest pain worsened by inspiration",
+      "Epigastric pain relieved by antacids"
+    ],
+    "correctAnswer": "Substernal pressure that radiates to the left arm"
+  },
+  {
+    "topic": "Cardiology",
+    "question": "Which cardiac enzyme rises first in acute myocardial infarction?",
+    "options": [
+      "Troponin I",
+      "Creatine kinase-MB",
+      "Lactate dehydrogenase",
+      "Myoglobin"
+    ],
+    "correctAnswer": "Myoglobin"
+  },
+  {
+    "topic": "Ethics",
+    "question": "Which ethical principle involves telling the truth to patients?",
+    "options": [
+      "Beneficence",
+      "Nonmaleficence",
+      "Veracity",
+      "Fidelity"
+    ],
+    "correctAnswer": "Veracity"
+  },
+  {
+    "topic": "Ethics",
+    "question": "In the context of medical ethics, which principle is defined as 'first, do no harm'?",
+    "options": [
+      "Beneficence",
+      "Nonmaleficence",
+      "Autonomy",
+      "Justice"
+    ],
+    "correctAnswer": "Nonmaleficence"
+  },
+  {
+    "topic": "Ethics",
+    "question": "What is informed consent primarily designed to protect?",
+    "options": [
+      "Physician autonomy",
+      "Patient autonomy",
+      "Hospital liability",
+      "Medical standards"
+    ],
+    "correctAnswer": "Patient autonomy"
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following is a calcium channel blocker commonly used for hypertension?",
+    "options": [
+      "Metoprolol",
+      "Lisinopril",
+      "Amlodipine",
+      "Hydrochlorothiazide"
+    ],
+    "correctAnswer": "Amlodipine"
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which antibiotic class can cause tendon rupture as a side effect?",
+    "options": [
+      "Macrolides",
+      "Fluoroquinolones",
+      "Tetracyclines",
+      "Cephalosporins"
+    ],
+    "correctAnswer": "Fluoroquinolones"
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following is the antidote for warfarin toxicity?",
+    "options": [
+      "Protamine sulfate",
+      "N-acetylcysteine",
+      "Vitamin K",
+      "Flumazenil"
+    ],
+    "correctAnswer": "Vitamin K"
+  },
+  {
+    "topic": "Neurology",
+    "question": "Which area of the brain is primarily responsible for balance and coordination?",
+    "options": [
+      "Frontal lobe",
+      "Cerebellum",
+      "Thalamus",
+      "Hypothalamus"
+    ],
+    "correctAnswer": "Cerebellum"
+  },
+  {
+    "topic": "Neurology",
+    "question": "Which of the following is a cardinal symptom of Parkinson's disease?",
+    "options": [
+      "Ataxia",
+      "Aphasia",
+      "Resting tremor",
+      "Hyperreflexia"
+    ],
+    "correctAnswer": "Resting tremor"
+  },
+  {
+    "topic": "Neurology",
+    "question": "Which cranial nerve controls eye movement?",
+    "options": [
+      "CN II (Optic)",
+      "CN III (Oculomotor)",
+      "CN IV (Trochlear)",
+      "Both CN III and CN IV"
+    ],
+    "correctAnswer": "Both CN III and CN IV"
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which hormone regulates calcium levels in the blood?",
+    "options": [
+      "Calcitonin",
+      "Parathyroid hormone",
+      "Aldosterone",
+      "Both calcitonin and parathyroid hormone"
+    ],
+    "correctAnswer": "Both calcitonin and parathyroid hormone"
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which of the following is a symptom of hypothyroidism?",
+    "options": [
+      "Weight loss",
+      "Heat intolerance",
+      "Bradycardia",
+      "Increased appetite"
+    ],
+    "correctAnswer": "Bradycardia"
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which gland secretes melatonin?",
+    "options": [
+      "Pituitary",
+      "Thyroid",
+      "Pineal",
+      "Adrenal"
+    ],
+    "correctAnswer": "Pineal"
+  }
+]

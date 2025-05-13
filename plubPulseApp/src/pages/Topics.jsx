@@ -4,7 +4,7 @@ const Topics = () => {
 
     return (
         <div>
-            <h1>Quiz!</h1>
+            <h1>Topics!</h1>
         </div>
     )
 }
