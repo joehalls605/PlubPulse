@@ -13,11 +13,12 @@ const Home = () => {
 
     return (
         <div className="container">
-            <h2>Welcome to PLAB Pulse</h2>
-            <p>Your comprehensive study companion for the PLAB 1 examination. Master medical concepts with our expertly
-                crafted practice questions.</p>
-
-            <Link to="/quiz" className="btn btn-primary m-2">Start Practice Now</Link>
+            <div id="intro">
+                <h2>Welcome to PLAB Pulse</h2>
+                <p>Your comprehensive study companion for the PLAB 1 examination. Master medical concepts with our
+                    expertly crafted practice questions.</p>
+            </div>
+            <button className="btn btn-primary" onClick={() => handleStartQuiz("Random")}>Start Practice Now</button>
             <Link to="/topics" className="btn btn-primary m-2">Browse All Topics</Link>
 
             <div id="topic-categories">
@@ -45,6 +46,20 @@ const Home = () => {
                     <h4>Pharmacology</h4>
                     <p>Test your knowledge in Pharmacology with focused questions.</p>
                     <button className="btn btn-primary" onClick={() => handleStartQuiz("Pharmacology")}> Start Pharmacology Quiz</button>
+                </div>
+            </div>
+            <div id="WhyChoose">
+                <div className="whyCard">
+                    <h4>Quality Questions</h4>
+                    <p>Realistic PLAB-style questions crafted by experienced practitioners to match exam patterns.</p>
+                </div>
+                <div className="whyCard">
+                    <h4>Detailed Explanations</h4>
+                    <p>Learn from comprehensive explanations with evidence-based insights for each question.</p>
+                </div>
+                <div className="whyCard">
+                    <h4>Specialty Focus</h4>
+                    <p>Target specific medical specialties to strengthen knowledge gaps and optimise study time.</p>
                 </div>
             </div>
         </div>
