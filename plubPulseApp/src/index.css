@@ -13,3 +13,11 @@
 .social-icon:hover {
     color: #0d6efd;
 }
+.topic-button{
+    border: 1px solid #ccc;
+    border-radius:4px;
+    background-color:white;
+}
+.topic-button:hover{
+    background-color:#f3f9ff;
+}

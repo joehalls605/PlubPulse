@@ -32,7 +32,7 @@ const Home = () => {
             {/* Topic Categories Section */}
             <div className="mb-4">
                 <div className="d-flex justify-content-between align-items-center mb-4">
-                    <h2 className="fs-2 mb-0">Popular Topic Categories</h2>
+                    <h2 className="fs-2 mb-0 mt-4">Popular Topic Categories</h2>
                     <Link to="/topics" className="text-primary text-decoration-none">
                         View all topics <FaArrowRight className="ms-1" size={14} />
                     </Link>
@@ -46,7 +46,7 @@ const Home = () => {
                                 Test your knowledge in Cardiology with focused questions.
                             </p>
                             <button
-                                className="btn btn-outline-primary w-100 d-flex align-items-center justify-content-center"
+                                className="text-black w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Cardiology")}
                             >
                                 <FaBook className="me-2"/> Start Cardiology Quiz
@@ -61,7 +61,7 @@ const Home = () => {
                                 Test your knowledge in Neurology  with focused questions.
                             </p>
                             <button
-                                className="btn btn-outline-primary w-100 d-flex align-items-center justify-content-center"
+                                className="text-black w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Neurology")}
                             >
                                 <FaBook className="me-2"/> Start Neurology  Quiz
@@ -73,10 +73,10 @@ const Home = () => {
                         <div className="card h-100 border-grey shadow-sm p-3">
                             <h3 className="card-title fs-4 mb-3">Ethics  </h3>
                             <p className="card-text text-muted mb-4">
-                                Test your knowledge in Ethics   with focused questions.
+                                Test your knowledge in Ethics specialty with focused questions.
                             </p>
                             <button
-                                className="btn btn-outline-primary w-100 d-flex align-items-center justify-content-center"
+                                className="text-black w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Ethics")}
                             >
                                 <FaBook className="me-2"/> Start Ethics Quiz
@@ -91,7 +91,7 @@ const Home = () => {
                                 Test your knowledge in Endocrinology    with focused questions.
                             </p>
                             <button
-                                className="btn btn-outline-primary w-100 d-flex align-items-center justify-content-center"
+                                className="text-black w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Endocrinology ")}
                             >
                                 <FaBook className="me-2"/> Start Endocrinology Quiz
@@ -106,7 +106,7 @@ const Home = () => {
                                 Test your knowledge in Endocrinology with focused questions.
                             </p>
                             <button
-                                className="btn btn-outline-primary w-100 d-flex align-items-center justify-content-center"
+                                className="text-black w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Endocrinology ")}
                             >
                                 <FaBook className="me-2"/> Start Endocrinology Quiz
@@ -121,7 +121,7 @@ const Home = () => {
                                 Test your knowledge in Psychiatry with focused questions.
                             </p>
                             <button
-                                className="btn btn-outline-primary w-100 d-flex align-items-center justify-content-center"
+                                className="text-black w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Psychiatry ")}
                             >
                                 <FaBook className="me-2"/> Start Psychiatry Quiz
@@ -132,11 +132,11 @@ const Home = () => {
             </div>
             {/* Why Choose PLAB Pulse Section */}
             <div className="py-5">
-                <h2 className="text-center fw-bold mb-5">Why Choose PLAB Pulse?</h2>
+                <h2 className="text-center fw-bold mb-5 mt-4">Why Choose PLAB Pulse?</h2>
                 <div className="row justify-content-center">
                     {/* Quality Questions Card */}
                     <div className="col-md-4 mb-4">
-                    <div className="card h-100 border-0 shadow-sm text-center p-4">
+                    <div className="card h-100 border-grey shadow-sm text-center p-5">
                         <div className="mx-auto mb-4">
                             <div className="rounded-circle bg-primary d-flex align-items-center justify-content-center"
                                  style={{width: "70px", height: "70px"}}>
@@ -152,7 +152,7 @@ const Home = () => {
 
                     {/* Detailed Explanations Card */}
                     <div className="col-md-4 mb-4">
-                        <div className="card h-100 border-0 shadow-sm text-center p-4">
+                        <div className="card h-100 border-greyshadow-sm text-center p-5">
                             <div className="mx-auto mb-4">
                                 <div
                                     className="rounded-circle bg-primary d-flex align-items-center justify-content-center"
@@ -169,7 +169,7 @@ const Home = () => {
 
                     {/* Specialty Focus Card */}
                     <div className="col-md-4 mb-4">
-                        <div className="card h-100 border-0 shadow-sm text-center p-4">
+                        <div className="card h-100 border-grey shadow-sm text-center p-5">
                             <div className="mx-auto mb-4">
                                 <div
                                     className="rounded-circle bg-primary d-flex align-items-center justify-content-center"
