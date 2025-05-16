@@ -1,0 +1,1213 @@
+[
+  {
+    "topic": "Cardiology",
+    "question": "Which heart valve is most commonly affected in rheumatic heart disease?",
+    "options": [
+      "Mitral",
+      "Aortic",
+      "Tricuspid",
+      "Pulmonary"
+    ],
+    "correctAnswer": "Mitral",
+    "explanation": "The mitral valve is most commonly affected in rheumatic heart disease. The inflammatory process leads to valvular stenosis and regurgitation, with the mitral valve being affected in about 65-70% of cases, either alone or in combination with the aortic valve."
+  },
+  {
+    "topic": "Cardiology",
+    "question": "Which of the following medications is commonly used to treat heart failure with reduced ejection fraction?",
+    "options": [
+      "Lisinopril",
+      "Amlodipine",
+      "Atorvastatin",
+      "Furosemide"
+    ],
+    "correctAnswer": "Lisinopril",
+    "explanation": "Lisinopril is an ACE inhibitor that reduces afterload and cardiac remodeling in heart failure with reduced ejection fraction (HFrEF). ACE inhibitors are first-line therapy for HFrEF as they have been shown to improve symptoms, reduce hospitalizations, and decrease mortality."
+  },
+  {
+    "topic": "Ethics",
+    "question": "Which principle relates to distributing healthcare resources fairly?",
+    "options": [
+      "Justice",
+      "Fidelity",
+      "Veracity",
+      "Autonomy"
+    ],
+    "correctAnswer": "Justice",
+    "explanation": "Justice refers to fair allocation of healthcare resources and treating people equally. This principle requires that healthcare providers distribute limited resources equitably, considering factors such as medical need, potential benefit, and resource availability."
+  },
+  {
+    "topic": "Cardiology",
+    "question": "Which ECG finding is characteristic of a myocardial infarction?",
+    "options": [
+      "ST elevation",
+      "T wave flattening",
+      "U waves",
+      "Shortened PR interval"
+    ],
+    "correctAnswer": "ST elevation",
+    "explanation": "ST elevation is a classic ECG finding in acute myocardial infarction, representing acute injury to the myocardium. This elevation occurs in leads facing the area of infarction and is a key diagnostic criterion for ST-elevation myocardial infarction (STEMI)."
+  },
+  {
+    "topic": "Ethics",
+    "question": "What does the principle of beneficence require a physician to do?",
+    "options": [
+      "Do good for the patient",
+      "Avoid lawsuits",
+      "Keep secrets",
+      "Follow patient instructions at all times"
+    ],
+    "correctAnswer": "Do good for the patient",
+    "explanation": "Beneficence requires healthcare providers to act in the best interest of patients and take positive steps to prevent and remove harm. This principle forms the foundation of the healing relationship and promotes actions that benefit patients."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which class of drugs is used to reduce cholesterol levels?",
+    "options": [
+      "Beta-blockers",
+      "Statins",
+      "ACE inhibitors",
+      "Diuretics"
+    ],
+    "correctAnswer": "Statins",
+    "explanation": "Statins (HMG-CoA reductase inhibitors) reduce cholesterol synthesis in the liver by inhibiting the rate-limiting enzyme in cholesterol production. They primarily lower LDL cholesterol and have been shown to reduce cardiovascular events and mortality in both primary and secondary prevention."
+  },
+  {
+    "topic": "Ethics",
+    "question": "What is the best ethical response when a patient refuses life-saving treatment?",
+    "options": [
+      "Force treatment",
+      "Respect their autonomy",
+      "Call the police",
+      "Ignore the patient"
+    ],
+    "correctAnswer": "Respect their autonomy",
+    "explanation": "Respecting patient autonomy is essential, even when they refuse life-saving treatment. A mentally competent adult has the right to refuse any treatment. Healthcare providers should ensure the patient has capacity, is fully informed of the consequences, and document the decision carefully."
+  },
+  {
+    "topic": "Neurology",
+    "question": "Which type of seizure involves loss of consciousness and convulsions?",
+    "options": [
+      "Absence",
+      "Focal",
+      "Myoclonic",
+      "Tonic-clonic"
+    ],
+    "correctAnswer": "Tonic-clonic",
+    "explanation": "Tonic-clonic seizures (formerly known as grand mal seizures) are characterized by loss of consciousness, muscle rigidity (tonic phase), followed by rhythmic muscle contractions (clonic phase). They involve both hemispheres of the brain and typically last 1-3 minutes."
+  },
+  {
+    "topic": "Neurology",
+    "question": "What is the hallmark symptom of multiple sclerosis?",
+    "options": [
+      "Progressive memory loss",
+      "Muscle rigidity",
+      "Relapsing-remitting neurological deficits",
+      "Facial droop"
+    ],
+    "correctAnswer": "Relapsing-remitting neurological deficits",
+    "explanation": "Relapsing-remitting neurological deficits are characteristic of multiple sclerosis (MS). This pattern reflects periods of acute inflammation and demyelination (relapses) followed by partial or complete recovery (remission), representing the most common disease course in MS."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which condition is characterized by hyperthyroidism, goiter, and exophthalmos?",
+    "options": [
+      "Hashimoto's thyroiditis",
+      "Cushing's syndrome",
+      "Graves' disease",
+      "Addison's disease"
+    ],
+    "correctAnswer": "Graves' disease",
+    "explanation": "Graves' disease is an autoimmune disorder characterized by the triad of hyperthyroidism, diffuse goiter, and exophthalmos (protruding eyes). It's caused by antibodies that stimulate the TSH receptor, leading to excessive thyroid hormone production."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "What is the primary function of insulin?",
+    "options": [
+      "Increase blood glucose",
+      "Promote fat breakdown",
+      "Lower blood glucose",
+      "Stimulate cortisol release"
+    ],
+    "correctAnswer": "Lower blood glucose",
+    "explanation": "Insulin's primary function is to lower blood glucose by facilitating the uptake of glucose into cells, particularly in muscle, liver, and adipose tissue. It also promotes glycogen synthesis and inhibits gluconeogenesis, maintaining glucose homeostasis."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which drug is an example of a non-steroidal anti-inflammatory drug (NSAID)?",
+    "options": [
+      "Ibuprofen",
+      "Paracetamol",
+      "Prednisone",
+      "Ciprofloxacin"
+    ],
+    "correctAnswer": "Ibuprofen",
+    "explanation": "Ibuprofen is a classic example of a non-steroidal anti-inflammatory drug (NSAID). NSAIDs work by inhibiting cyclooxygenase (COX) enzymes, reducing the production of prostaglandins and thromboxanes, thereby decreasing inflammation, pain, and fever."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following is a side effect of aminoglycosides?",
+    "options": [
+      "Ototoxicity",
+      "Hepatotoxicity",
+      "Gynecomastia",
+      "Hypokalemia"
+    ],
+    "correctAnswer": "Ototoxicity",
+    "explanation": "Ototoxicity (damage to the inner ear) is a well-documented side effect of aminoglycosides, potentially causing permanent hearing loss and/or vestibular dysfunction. This toxicity is dose-dependent and can occur even with therapeutic doses, especially with prolonged treatment."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "What hormone is produced by the adrenal medulla?",
+    "options": [
+      "Cortisol",
+      "Aldosterone",
+      "Epinephrine",
+      "ACTH"
+    ],
+    "correctAnswer": "Epinephrine",
+    "explanation": "The adrenal medulla produces catecholamines, primarily epinephrine (adrenaline) and smaller amounts of norepinephrine. These hormones are part of the sympathetic nervous system's fight-or-flight response, preparing the body for acute stress situations."
+  },
+  {
+    "topic": "Neurology",
+    "question": "Which cranial nerve is responsible for facial movement?",
+    "options": [
+      "Trigeminal",
+      "Facial",
+      "Glossopharyngeal",
+      "Accessory"
+    ],
+    "correctAnswer": "Facial",
+    "explanation": "The facial nerve (cranial nerve VII) controls all muscles of facial expression. Damage to this nerve causes facial weakness or paralysis. The trigeminal nerve (V) provides sensation to the face and controls muscles of mastication, not facial expression."
+  },
+  {
+    "topic": "Cardiology",
+    "question": "Which arrhythmia is characterized by a narrow complex tachycardia with no visible P waves?",
+    "options": [
+      "Atrial fibrillation",
+      "Ventricular tachycardia",
+      "First-degree AV block",
+      "Sinus bradycardia"
+    ],
+    "correctAnswer": "Atrial fibrillation",
+    "explanation": "Atrial fibrillation is characterized by rapid, irregularly irregular rhythm with no discernible P waves on ECG. Instead, there are fibrillatory waves representing chaotic atrial electrical activity, with narrow QRS complexes (unless there's aberrant conduction)."
+  },
+  {
+    "topic": "Cardiology",
+    "question": "Which of the following is a classic symptom of angina pectoris?",
+    "options": [
+      "Sharp, stabbing pain unrelated to exertion",
+      "Substernal pressure that radiates to the left arm",
+      "Pleuritic chest pain worsened by inspiration",
+      "Epigastric pain relieved by antacids"
+    ],
+    "correctAnswer": "Substernal pressure that radiates to the left arm",
+    "explanation": "Classic angina pectoris presents as substernal pressure, heaviness, or squeezing discomfort that may radiate to the left arm, jaw, neck, or back. It's typically triggered by exertion or emotional stress, relieved by rest or nitroglycerin, and lasts 2-10 minutes."
+  },
+  {
+    "topic": "Cardiology",
+    "question": "Which cardiac enzyme rises first in acute myocardial infarction?",
+    "options": [
+      "Troponin I",
+      "Creatine kinase-MB",
+      "Lactate dehydrogenase",
+      "Myoglobin"
+    ],
+    "correctAnswer": "Myoglobin",
+    "explanation": "Myoglobin is the first cardiac biomarker to rise after myocardial infarction, detectable as early as 1-2 hours after injury. However, it's not specific to cardiac damage. Troponin, while more specific, typically rises 3-4 hours after onset of myocardial injury."
+  },
+  {
+    "topic": "Ethics",
+    "question": "Which ethical principle involves telling the truth to patients?",
+    "options": [
+      "Beneficence",
+      "Nonmaleficence",
+      "Veracity",
+      "Fidelity"
+    ],
+    "correctAnswer": "Veracity",
+    "explanation": "Veracity refers to the ethical principle of truthfulness and honesty in communication with patients. It forms the foundation of trust in the doctor-patient relationship and respects the patient's right to receive accurate information about their condition and treatment."
+  },
+  {
+    "topic": "Ethics",
+    "question": "In the context of medical ethics, which principle is defined as 'first, do no harm'?",
+    "options": [
+      "Beneficence",
+      "Nonmaleficence",
+      "Autonomy",
+      "Justice"
+    ],
+    "correctAnswer": "Nonmaleficence",
+    "explanation": "Nonmaleficence is derived from the Latin 'primum non nocere' meaning 'first, do no harm.' This principle requires healthcare providers to avoid causing harm or injury to patients, either through acts of commission or omission."
+  },
+  {
+    "topic": "Ethics",
+    "question": "What is informed consent primarily designed to protect?",
+    "options": [
+      "Physician autonomy",
+      "Patient autonomy",
+      "Hospital liability",
+      "Medical standards"
+    ],
+    "correctAnswer": "Patient autonomy",
+    "explanation": "Informed consent is primarily designed to protect patient autonomy by ensuring patients have adequate information to make voluntary decisions about their healthcare. It requires disclosure of the nature of the procedure, risks, benefits, alternatives, and the right to refuse treatment."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following is a calcium channel blocker commonly used for hypertension?",
+    "options": [
+      "Metoprolol",
+      "Lisinopril",
+      "Amlodipine",
+      "Hydrochlorothiazide"
+    ],
+    "correctAnswer": "Amlodipine",
+    "explanation": "Amlodipine is a dihydropyridine calcium channel blocker that selectively blocks L-type calcium channels in vascular smooth muscle, causing vasodilation and reducing peripheral resistance. It's commonly used for hypertension and angina due to its once-daily dosing and minimal effect on cardiac contractility."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which antibiotic class can cause tendon rupture as a side effect?",
+    "options": [
+      "Macrolides",
+      "Fluoroquinolones",
+      "Tetracyclines",
+      "Cephalosporins"
+    ],
+    "correctAnswer": "Fluoroquinolones",
+    "explanation": "Fluoroquinolones can cause tendinopathy and tendon rupture, particularly affecting the Achilles tendon. This rare but serious adverse effect led to an FDA black box warning. The risk is higher in older patients, those on corticosteroids, and in patients with renal failure."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following is the antidote for warfarin toxicity?",
+    "options": [
+      "Protamine sulfate",
+      "N-acetylcysteine",
+      "Vitamin K",
+      "Flumazenil"
+    ],
+    "correctAnswer": "Vitamin K",
+    "explanation": "Vitamin K is the antidote for warfarin toxicity as it restores the body's ability to synthesize clotting factors II, VII, IX, and X. For immediate reversal in severe bleeding, prothrombin complex concentrate (PCC) or fresh frozen plasma may also be administered."
+  },
+  {
+    "topic": "Neurology",
+    "question": "Which area of the brain is primarily responsible for balance and coordination?",
+    "options": [
+      "Frontal lobe",
+      "Cerebellum",
+      "Thalamus",
+      "Hypothalamus"
+    ],
+    "correctAnswer": "Cerebellum",
+    "explanation": "The cerebellum plays a crucial role in motor control, particularly in the coordination of voluntary movements, posture, balance, and motor learning. Cerebellar damage results in ataxia, dysmetria, dysdiadochokinesia, and intention tremor."
+  },
+  {
+    "topic": "Neurology",
+    "question": "Which of the following is a cardinal symptom of Parkinson's disease?",
+    "options": [
+      "Ataxia",
+      "Aphasia",
+      "Resting tremor",
+      "Hyperreflexia"
+    ],
+    "correctAnswer": "Resting tremor",
+    "explanation": "Resting tremor is one of the cardinal features of Parkinson's disease, typically beginning unilaterally in the hands (pill-rolling tremor) and decreasing with voluntary movement. Other cardinal features include bradykinesia, rigidity, and postural instability."
+  },
+  {
+    "topic": "Neurology",
+    "question": "Which cranial nerve controls eye movement?",
+    "options": [
+      "CN II (Optic)",
+      "CN III (Oculomotor)",
+      "CN IV (Trochlear)",
+      "Both CN III and CN IV"
+    ],
+    "correctAnswer": "Both CN III and CN IV",
+    "explanation": "Eye movement is controlled by three cranial nerves: CN III (oculomotor) controls most extraocular muscles, CN IV (trochlear) controls the superior oblique muscle, and CN VI (abducens, not listed) controls the lateral rectus. The optic nerve (CN II) is responsible for vision, not eye movement."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which hormone regulates calcium levels in the blood?",
+    "options": [
+      "Calcitonin",
+      "Parathyroid hormone",
+      "Aldosterone",
+      "Both calcitonin and parathyroid hormone"
+    ],
+    "correctAnswer": "Both calcitonin and parathyroid hormone",
+    "explanation": "Both calcitonin and parathyroid hormone (PTH) regulate calcium homeostasis in opposing ways. PTH increases serum calcium by enhancing bone resorption, renal calcium reabsorption, and vitamin D activation. Calcitonin decreases serum calcium by inhibiting bone resorption and increasing renal calcium excretion."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which of the following is a symptom of hypothyroidism?",
+    "options": [
+      "Weight loss",
+      "Heat intolerance",
+      "Bradycardia",
+      "Increased appetite"
+    ],
+    "correctAnswer": "Bradycardia",
+    "explanation": "Bradycardia (slow heart rate) is a characteristic feature of hypothyroidism due to decreased beta-adrenergic receptor sensitivity and reduced metabolic demand. Other symptoms include fatigue, weight gain, cold intolerance, constipation, dry skin, and hair loss."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which gland secretes melatonin?",
+    "options": [
+      "Pituitary",
+      "Thyroid",
+      "Pineal",
+      "Adrenal"
+    ],
+    "correctAnswer": "Pineal",
+    "explanation": "The pineal gland secretes melatonin, a hormone that regulates the sleep-wake cycle (circadian rhythm). Melatonin production is inhibited by light and increased in darkness, helping to synchronize sleep patterns with the day-night cycle."
+  },
+  {
+    "topic": "Respiratory Medicine",
+    "question": "Which of the following is the most common cause of community-acquired pneumonia?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Haemophilus influenzae",
+      "Mycoplasma pneumoniae",
+      "Klebsiella pneumoniae"
+    ],
+    "correctAnswer": "Streptococcus pneumoniae",
+    "explanation": "Streptococcus pneumoniae (pneumococcus) is the most common bacterial cause of community-acquired pneumonia in adults. It typically presents with sudden onset of fever, productive cough with rusty sputum, and lobar consolidation on chest X-ray."
+  },
+  {
+    "topic": "Respiratory Medicine",
+    "question": "Which spirometry finding is characteristic of obstructive lung disease?",
+    "options": [
+      "Reduced FEV1 and FVC with normal FEV1/FVC ratio",
+      "Reduced FEV1 with normal FVC leading to reduced FEV1/FVC ratio",
+      "Normal FEV1 and FVC with increased FEV1/FVC ratio",
+      "Increased FEV1 and reduced FVC"
+    ],
+    "correctAnswer": "Reduced FEV1 with normal FVC leading to reduced FEV1/FVC ratio",
+    "explanation": "Obstructive lung diseases (like COPD and asthma) are characterized by airflow limitation during expiration, resulting in reduced FEV1 with normal or near-normal FVC, leading to a reduced FEV1/FVC ratio (<0.7). This contrasts with restrictive patterns where both FEV1 and FVC are reduced proportionally."
+  },
+  {
+    "topic": "Respiratory Medicine",
+    "question": "Which of the following conditions is associated with type 1 respiratory failure?",
+    "options": [
+      "COPD exacerbation",
+      "Pulmonary embolism",
+      "Guillain-Barré syndrome",
+      "Obesity hypoventilation syndrome"
+    ],
+    "correctAnswer": "Pulmonary embolism",
+    "explanation": "Type 1 respiratory failure is characterized by hypoxemia (low PaO2) with normal or low PaCO2. Pulmonary embolism causes V/Q mismatch leading to hypoxemia without CO2 retention. COPD exacerbation and obesity hypoventilation typically cause type 2 failure (hypoxemia with hypercapnia)."
+  },
+  {
+    "topic": "Respiratory Medicine",
+    "question": "What is the first-line treatment for severe asthma exacerbation?",
+    "options": [
+      "Oral steroids",
+      "IV magnesium sulfate",
+      "Nebulized salbutamol",
+      "Oxygen therapy"
+    ],
+    "correctAnswer": "Nebulized salbutamol",
+    "explanation": "Nebulized short-acting beta-2 agonists (like salbutamol/albuterol) are the first-line treatment for severe asthma exacerbations, providing rapid bronchodilation. This should be followed by systemic corticosteroids and oxygen therapy as needed. IV magnesium sulfate is considered for those unresponsive to initial treatment."
+  },
+  {
+    "topic": "Respiratory Medicine",
+    "question": "Which clinical feature is characteristic of pneumothorax?",
+    "options": [
+      "Reduced chest movement on the affected side",
+      "Dull percussion note",
+      "Bronchial breathing",
+      "Fine crackles on auscultation"
+    ],
+    "correctAnswer": "Reduced chest movement on the affected side",
+    "explanation": "Pneumothorax typically presents with reduced chest movement on the affected side, resonant/hyper-resonant percussion note, and reduced or absent breath sounds. Dull percussion and bronchial breathing suggest consolidation, while crackles indicate fluid in the small airways."
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Which of the following is the most common cause of acute pancreatitis in the UK?",
+    "options": [
+      "Gallstones",
+      "Alcohol",
+      "Trauma",
+      "Medications"
+    ],
+    "correctAnswer": "Gallstones",
+    "explanation": "Gallstones are the most common cause of acute pancreatitis in the UK, responsible for approximately 40-50% of cases. They cause pancreatitis by obstructing the common bile duct or ampulla of Vater, leading to pancreatic duct obstruction and autodigestion of pancreatic tissue."
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Which investigation is most appropriate for diagnosing coeliac disease?",
+    "options": [
+      "Colonoscopy",
+      "Abdominal CT scan",
+      "Duodenal biopsy",
+      "Barium follow-through"
+    ],
+    "correctAnswer": "Duodenal biopsy",
+    "explanation": "Duodenal biopsy is the gold standard for diagnosing coeliac disease, showing characteristic histological changes including villous atrophy, crypt hyperplasia, and increased intraepithelial lymphocytes. Serological tests (anti-tissue transglutaminase antibodies) are used for screening but require biopsy confirmation."
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Which of the following is a characteristic feature of Crohn's disease that distinguishes it from ulcerative colitis?",
+    "options": [
+      "Mucus in stool",
+      "Continuous inflammation",
+      "Skip lesions",
+      "Rectal involvement"
+    ],
+    "correctAnswer": "Skip lesions",
+    "explanation": "Skip lesions (segments of normal bowel between areas of inflammation) are characteristic of Crohn's disease, distinguishing it from ulcerative colitis which presents with continuous inflammation from the rectum extending proximally. Crohn's can affect any part of the GI tract from mouth to anus."
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "What is the most appropriate initial treatment for peptic ulcer disease associated with H. pylori infection?",
+    "options": [
+      "PPI alone",
+      "H2 receptor antagonist",
+      "Triple therapy (PPI, amoxicillin, clarithromycin)",
+      "Antacids"
+    ],
+    "correctAnswer": "Triple therapy (PPI, amoxicillin, clarithromycin)",
+    "explanation": "Triple therapy consisting of a proton pump inhibitor (PPI) and two antibiotics (usually amoxicillin and clarithromycin) for 7-14 days is the standard first-line treatment for H. pylori eradication. This approach has eradication rates of 70-90% and significantly reduces ulcer recurrence."
+  },
+  {
+    "topic": "Gastroenterology",
+    "question": "Which liver function test abnormality is most specific for cholestasis?",
+    "options": [
+      "Elevated ALT",
+      "Elevated AST",
+      "Elevated alkaline phosphatase",
+      "Elevated bilirubin"
+    ],
+    "correctAnswer": "Elevated alkaline phosphatase",
+    "explanation": "Elevated alkaline phosphatase (ALP) is most specific for cholestasis (impaired bile flow). While bilirubin can be elevated in cholestasis, it's also elevated in many other conditions. AST and ALT elevations primarily indicate hepatocellular damage rather than biliary obstruction."
+  },
+  {
+    "topic": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a risk factor for ectopic pregnancy?",
+    "options": [
+      "Multiparity",
+      "Previous tubal surgery",
+      "Oral contraceptive use",
+      "Ovulation induction"
+    ],
+    "correctAnswer": "Previous tubal surgery",
+    "explanation": "Previous tubal surgery (including tubal ligation) is a significant risk factor for ectopic pregnancy due to scarring and distortion of normal tubal anatomy. Other risk factors include prior ectopic pregnancy, pelvic inflammatory disease, smoking, and increasing age."
+  },
+  {
+    "topic": "Obstetrics & Gynaecology",
+    "question": "At what stage of pregnancy should routine anomaly scanning be performed?",
+    "options": [
+      "8-10 weeks",
+      "12-14 weeks",
+      "18-20 weeks",
+      "24-26 weeks"
+    ],
+    "correctAnswer": "18-20 weeks",
+    "explanation": "The detailed anomaly scan (mid-pregnancy scan) is routinely performed at 18-20 weeks of gestation. This timing allows optimal visualization of fetal anatomy, including the heart, brain, spine, kidneys, limbs, and placental position, while still allowing time for further investigations if abnormalities are detected."
+  },
+  {
+    "topic": "Obstetrics & Gynaecology",
+    "question": "Which of the following is the first-line treatment for bacterial vaginosis?",
+    "options": [
+      "Metronidazole",
+      "Fluconazole",
+      "Clotrimazole",
+      "Amoxicillin"
+    ],
+    "correctAnswer": "Metronidazole",
+    "explanation": "Metronidazole is the first-line treatment for bacterial vaginosis (BV), effective against the anaerobic bacteria that overgrow in this condition. It can be given orally or vaginally. Fluconazole and clotrimazole are antifungals used for candidiasis, not bacterial infections."
+  },
+  {
+    "topic": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a characteristic feature of polycystic ovary syndrome (PCOS)?",
+    "options": [
+      "Hyperprolactinaemia",
+      "Primary amenorrhoea",
+      "Hyperandrogenism",
+      "Premature ovarian failure"
+    ],
+    "correctAnswer": "Hyperandrogenism",
+    "explanation": "Hyperandrogenism (elevated androgens) is a defining characteristic of PCOS, manifesting as hirsutism, acne, and male-pattern hair loss. The Rotterdam criteria for PCOS diagnosis require two of three features: oligo/anovulation, clinical/biochemical hyperandrogenism, and polycystic ovaries on ultrasound."
+  },
+  {
+    "topic": "Obstetrics & Gynaecology",
+    "question": "Which of the following is NOT a recognized risk factor for pre-eclampsia?",
+    "options": [
+      "First pregnancy",
+      "Multiple pregnancy",
+      "Maternal age >35 years",
+      "Previous normal pregnancy"
+    ],
+    "correctAnswer": "Previous normal pregnancy",
+    "explanation": "A previous normal pregnancy is protective against pre-eclampsia, not a risk factor. Recognized risk factors include nulliparity (first pregnancy), advanced maternal age, multiple pregnancy, pre-existing hypertension, diabetes, renal disease, previous pre-eclampsia, and family history."
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "Which of the following is a first-line treatment for bipolar disorder?",
+    "options": [
+      "Fluoxetine",
+      "Lithium",
+      "Diazepam",
+      "Buspirone"
+    ],
+    "correctAnswer": "Lithium",
+    "explanation": "Lithium is a first-line treatment for bipolar disorder with proven efficacy in treating acute mania and preventing relapses of both mania and depression. It also reduces suicide risk. SSRIs like fluoxetine may trigger mania in bipolar patients if used without a mood stabilizer."
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "Which symptom is NOT typically associated with schizophrenia?",
+    "options": [
+      "Auditory hallucinations",
+      "Thought insertion",
+      "Euphoria",
+      "Flat affect"
+    ],
+    "correctAnswer": "Euphoria",
+    "explanation": "Euphoria (elevated mood) is not typically associated with schizophrenia; it's more characteristic of bipolar disorder or mania. Schizophrenia typically presents with positive symptoms (hallucinations, delusions, thought disorder) and negative symptoms (flat affect, social withdrawal, avolition)."
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "Which of the following is the most appropriate treatment for severe depression with psychotic features?",
+    "options": [
+      "CBT alone",
+      "SSRI alone",
+      "SSRI plus antipsychotic",
+      "ECT"
+    ],
+    "correctAnswer": "SSRI plus antipsychotic",
+    "explanation": "Severe depression with psychotic features is typically treated with a combination of an antidepressant (such as an SSRI) and an antipsychotic. For treatment-resistant cases, electroconvulsive therapy (ECT) may be considered. CBT alone is insufficient for psychotic depression."
+  },
+  {
+    "topic": "Cardiology",
+    "question": "Which of the following is the most common cause of sudden cardiac death in young athletes?",
+    "options": [
+      "Hypertrophic cardiomyopathy",
+      "Coronary artery anomaly",
+      "Myocarditis",
+      "Long QT syndrome"
+    ],
+    "correctAnswer": "Hypertrophic cardiomyopathy",
+    "explanation": "Hypertrophic cardiomyopathy (HCM) is the most common genetic cardiovascular disease and a leading cause of sudden cardiac death in young athletes. It is characterized by left ventricular hypertrophy, which can lead to arrhythmias."
+  },
+  {
+    "topic": "Cardiology",
+    "question": "What is the target INR range for most patients on warfarin for atrial fibrillation?",
+    "options": [
+      "1.0 - 1.5",
+      "1.5 - 2.0",
+      "2.0 - 3.0",
+      "3.0 - 4.0"
+    ],
+    "correctAnswer": "2.0 - 3.0",
+    "explanation": "The standard target INR (International Normalized Ratio) for patients with atrial fibrillation on warfarin for stroke prevention is typically between 2.0 and 3.0. This range provides adequate anticoagulation to reduce the risk of blood clots while minimizing the risk of bleeding."
+  },
+  {
+    "topic": "Cardiology",
+    "question": "Which of the following is a common side effect of amiodarone?",
+    "options": [
+      "Constipation",
+      "Pulmonary fibrosis",
+      "Hypoglycemia",
+      "Metallic taste"
+    ],
+    "correctAnswer": "Pulmonary fibrosis",
+    "explanation": "Amiodarone is a potent antiarrhythmic drug with several potential side effects, including pulmonary toxicity, which can manifest as pulmonary fibrosis. Regular monitoring of lung function is important in patients on long-term amiodarone therapy."
+  },
+  {
+    "topic": "Cardiology",
+    "question": "A patient with a history of heart failure presents with shortness of breath and bibasilar crackles on lung auscultation. Which of the following medications would be most appropriate for immediate symptom relief?",
+    "options": [
+      "Metoprolol",
+      "Lisinopril",
+      "Furosemide",
+      "Spironolactone"
+    ],
+    "correctAnswer": "Furosemide",
+    "explanation": "Furosemide is a loop diuretic that promotes rapid fluid removal, reducing preload and alleviating symptoms of congestion such as shortness of breath and crackles in patients with heart failure exacerbation."
+  },
+  {
+    "topic": "Cardiology",
+    "question": "Which of the following is a characteristic ECG finding in Wolff-Parkinson-White (WPW) syndrome?",
+    "options": [
+      "Prolonged PR interval",
+      "Delta wave",
+      "Q waves in inferior leads",
+      "T wave inversion in anterior leads"
+    ],
+    "correctAnswer": "Delta wave",
+    "explanation": "Wolff-Parkinson-White (WPW) syndrome is characterized by the presence of a delta wave, which is a slurred upstroke of the QRS complex due to early ventricular activation via an accessory pathway (Kent bundle)."
+  }, {
+  "topic": "Neurology",
+  "question": "Which of the following is the most common type of stroke?",
+  "options": [
+    "Hemorrhagic stroke",
+    "Subarachnoid hemorrhage",
+    "Transient ischemic attack (TIA)",
+    "Ischemic stroke"
+  ],
+  "correctAnswer": "Ischemic stroke",
+  "explanation": "Ischemic stroke, caused by a blockage of blood flow to the brain, is the most common type of stroke, accounting for approximately 80-85% of all stroke cases."
+},
+  {
+    "topic": "Neurology",
+    "question": "What is the first-line treatment for acute ischemic stroke within the thrombolytic window?",
+    "options": [
+      "Aspirin",
+      "Warfarin",
+      "Recombinant tissue plasminogen activator (rt-PA)",
+      "Heparin"
+    ],
+    "correctAnswer": "Recombinant tissue plasminogen activator (rt-PA)",
+    "explanation": "Recombinant tissue plasminogen activator (rt-PA) is the first-line treatment for acute ischemic stroke if administered within the eligible time window (typically within 4.5 hours of symptom onset) to dissolve the blood clot and restore blood flow."
+  },
+  {
+    "topic": "Neurology",
+    "question": "Which of the following is a common early symptom of Alzheimer's disease?",
+    "options": [
+      "Motor weakness",
+      "Severe headache",
+      "Recent memory loss",
+      "Visual disturbances"
+    ],
+    "correctAnswer": "Recent memory loss",
+    "explanation": "Progressive impairment of recent memory is a hallmark early symptom of Alzheimer's disease, often involving difficulty remembering newly learned information, appointments, or conversations."
+  },
+  {
+    "topic": "Neurology",
+    "question": "Which of the following is a common trigger for migraine headaches?",
+    "options": [
+      "Physical exercise",
+      "Regular sleep schedule",
+      "Stress and hormonal changes",
+      "Consistent hydration"
+    ],
+    "correctAnswer": "Stress and hormonal changes",
+    "explanation": "Stress, hormonal fluctuations (especially in women), certain foods and drinks, changes in weather, and sleep disturbances are common triggers for migraine headaches."
+  },
+  {
+    "topic": "Neurology",
+    "question": "Which of the following is a characteristic finding on lumbar puncture in bacterial meningitis?",
+    "options": [
+      "Low protein, high glucose, clear fluid",
+      "Normal protein, normal glucose, clear fluid",
+      "High protein, low glucose, turbid fluid",
+      "Normal protein, low glucose, clear fluid"
+    ],
+    "correctAnswer": "High protein, low glucose, turbid fluid",
+    "explanation": "Bacterial meningitis typically presents with cerebrospinal fluid (CSF) findings of high protein, low glucose (as bacteria consume glucose), and a turbid (cloudy) appearance due to the presence of white blood cells and bacteria."
+  },
+  {
+    "topic": "Ethics",
+    "question": "A physician fails to diagnose a patient's serious condition due to negligence, resulting in harm to the patient. Which ethical principle has the physician most clearly violated?",
+    "options": [
+      "Autonomy",
+      "Beneficence",
+      "Nonmaleficence",
+      "Justice"
+    ],
+    "correctAnswer": "Nonmaleficence",
+    "explanation": "The principle of nonmaleficence, 'first, do no harm,' is violated when a physician's negligence directly leads to harm. While beneficence (acting in the patient's best interest) is also relevant, the direct causation of harm through negligence primarily breaches nonmaleficence."
+  },
+  {
+    "topic": "Ethics",
+    "question": "A researcher is conducting a study and fails to fully disclose the potential risks to participants. Which ethical principle has been violated?",
+    "options": [
+      "Justice",
+      "Beneficence",
+      "Autonomy",
+      "Fidelity"
+    ],
+    "correctAnswer": "Autonomy",
+    "explanation": "The principle of autonomy emphasizes the patient's right to make informed decisions about their care. Failure to fully disclose risks undermines the participant's ability to make a voluntary and informed decision to participate in the research, thus violating their autonomy."
+  },
+  {
+    "topic": "Ethics",
+    "question": "A hospital has limited resources and must decide which patients receive a life-saving treatment. The decision is made based on a lottery system. Which ethical principle is most directly addressed (though perhaps not perfectly satisfied) by this approach?",
+    "options": [
+      "Beneficence",
+      "Nonmaleficence",
+      "Justice",
+      "Autonomy"
+    ],
+    "correctAnswer": "Justice",
+    "explanation": "A lottery system aims to distribute resources fairly, addressing the principle of justice by giving all eligible patients an equal chance of receiving treatment, even in the face of scarcity. While it doesn't guarantee the best outcome (beneficence) or prevent harm (nonmaleficence) in all cases, it prioritizes equitable allocation."
+  },
+  {
+    "topic": "Ethics",
+    "question": "A physician promises a patient a specific outcome for a treatment, knowing that this outcome is not guaranteed. Which ethical principle has the physician violated?",
+    "options": [
+      "Beneficence",
+      "Nonmaleficence",
+      "Veracity",
+      "Autonomy"
+    ],
+    "correctAnswer": "Veracity",
+    "explanation": "Veracity is the principle of truthfulness. By making a promise of a specific outcome that is not guaranteed, the physician is being dishonest with the patient, thus violating the principle of veracity."
+  },
+  {
+    "topic": "Ethics",
+    "question": "A nurse witnesses a colleague stealing medication but does not report it due to loyalty to their friend. Which ethical principle is the nurse primarily failing to uphold?",
+    "options": [
+      "Fidelity",
+      "Beneficence",
+      "Justice",
+      "Nonmaleficence"
+    ],
+    "correctAnswer": "Justice",
+    "explanation": "While fidelity involves loyalty and keeping promises, in a healthcare context, the overarching duty to the well-being of patients and the integrity of the system (justice) takes precedence. Failing to report the theft of medication undermines the fair and safe distribution of resources and potentially harms patients."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which of the following is a long-term complication of poorly controlled type 2 diabetes mellitus?",
+    "options": [
+      "Hypercalcemia",
+      "Hypothyroidism",
+      "Retinopathy",
+      "Osteoporosis"
+    ],
+    "correctAnswer": "Retinopathy",
+    "explanation": "Poorly controlled type 2 diabetes mellitus can lead to microvascular complications, including retinopathy (damage to the blood vessels in the retina), nephropathy (kidney damage), and neuropathy (nerve damage)."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "What is the primary screening test for gestational diabetes mellitus (GDM)?",
+    "options": [
+      "Fasting plasma glucose",
+      "Hemoglobin A1c",
+      "Oral glucose tolerance test (OGTT)",
+      "Glucose challenge test (GCT)"
+    ],
+    "correctAnswer": "Glucose challenge test (GCT)",
+    "explanation": "The glucose challenge test (GCT) is the initial screening test for gestational diabetes mellitus, typically performed between 24 and 28 weeks of gestation. If the GCT result is abnormal, a more definitive oral glucose tolerance test (OGTT) is performed."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which of the following hormones is primarily responsible for the development of male secondary sexual characteristics?",
+    "options": [
+      "Follicle-stimulating hormone (FSH)",
+      "Luteinizing hormone (LH)",
+      "Testosterone",
+      "Estrogen"
+    ],
+    "correctAnswer": "Testosterone",
+    "explanation": "Testosterone, an androgen produced primarily by the testes, is the main hormone responsible for the development of male secondary sexual characteristics such as facial hair, deepening of the voice, and increased muscle mass."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which of the following is a common symptom of Cushing's syndrome?",
+    "options": [
+      "Weight loss",
+      "Hypotension",
+      "Moon face",
+      "Cold intolerance"
+    ],
+    "correctAnswer": "Moon face",
+    "explanation": "Cushing's syndrome, caused by prolonged exposure to high levels of cortisol, is characterized by symptoms such as a rounded face ('moon face'), central obesity, buffalo hump, skin thinning, and hypertension."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "What is the primary treatment for type 1 diabetes mellitus?",
+    "options": [
+      "Oral hypoglycemic agents",
+      "Insulin therapy",
+      "Lifestyle modifications alone",
+      "Bariatric surgery"
+    ],
+    "correctAnswer": "Insulin therapy",
+    "explanation": "Type 1 diabetes mellitus is characterized by the autoimmune destruction of pancreatic beta cells, leading to an absolute deficiency of insulin. Therefore, insulin therapy (via injections or pump) is the primary and essential treatment."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following is a common side effect of opioid medications?",
+    "options": [
+      "Diarrhea",
+      "Insomnia",
+      "Constipation",
+      "Increased appetite"
+    ],
+    "correctAnswer": "Constipation",
+    "explanation": "Constipation is a very common side effect of opioid medications due to their effects on the gastrointestinal system, slowing down peristalsis."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following drug classes requires regular monitoring of serum drug levels due to its narrow therapeutic index?",
+    "options": [
+      "Penicillins",
+      "Cephalosporins",
+      "Aminoglycosides",
+      "Macrolides"
+    ],
+    "correctAnswer": "Aminoglycosides",
+    "explanation": "Aminoglycosides, a class of antibiotics, have a narrow therapeutic index, meaning the difference between a therapeutic dose and a toxic dose is small. Therefore, regular monitoring of serum drug levels is crucial to ensure efficacy and prevent toxicity (e.g., ototoxicity, nephrotoxicity)."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "What is the primary mechanism of action of selective serotonin reuptake inhibitors (SSRIs) in treating depression?",
+    "options": [
+      "Increasing dopamine levels in the brain",
+      "Blocking the reuptake of norepinephrine",
+      "Inhibiting the reuptake of serotonin in the synaptic cleft",
+      "Increasing GABA activity"
+    ],
+    "correctAnswer": "Inhibiting the reuptake of serotonin in the synaptic cleft",
+    "explanation": "Selective serotonin reuptake inhibitors (SSRIs) work by blocking the reuptake (reabsorption) of serotonin by nerve cells in the brain. This leads to increased levels of serotonin in the synaptic cleft, enhancing its neurotransmission and alleviating symptoms of depression."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following is a potential adverse effect of long-term use of proton pump inhibitors (PPIs)?",
+    "options": [
+      "Hyperkalemia",
+      "Metabolic alkalosis",
+      "Vitamin B12 deficiency",
+      "Increased risk of gout"
+    ],
+    "correctAnswer": "Vitamin B12 deficiency",
+    "explanation": "Long-term use of proton pump inhibitors (PPIs) can impair the absorption of vitamin B12 due to reduced gastric acid production, which is necessary for the release of vitamin B12 from food proteins."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following is a contraindication for the use of non-selective beta-blockers in a patient with hypertension?",
+    "options": [
+      "Diabetes mellitus",
+      "Asthma",
+      "Hyperlipidemia",
+      "Peripheral vascular disease"
+    ],
+    "correctAnswer": "Asthma",
+    "explanation": "Non-selective beta-blockers can block beta-2 receptors in the lungs, leading to bronchoconstriction. Therefore, they are generally contraindicated in patients with asthma or other reactive airway diseases."
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "Which of the following is a core symptom of attention-deficit/hyperactivity disorder (ADHD)?",
+    "options": [
+      "Delusions",
+      "Hallucinations",
+      "Inattention",
+      "Catatonia"
+    ],
+    "correctAnswer": "Inattention",
+    "explanation": "Inattention is one of the core symptom domains of ADHD, characterized by difficulties in sustaining focus, being easily distracted, and having trouble organizing tasks and activities."
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "Which class of antidepressants is known for having a higher risk of serotonin syndrome when combined with other serotonergic agents?",
+    "options": [
+      "Tricyclic antidepressants (TCAs)",
+      "Selective serotonin reuptake inhibitors (SSRIs)",
+      "Monoamine oxidase inhibitors (MAOIs)",
+      "Serotonin-norepinephrine reuptake inhibitors (SNRIs)"
+    ],
+    "correctAnswer": "Monoamine oxidase inhibitors (MAOIs)",
+    "explanation": "Monoamine oxidase inhibitors (MAOIs) significantly increase serotonin levels in the brain. When combined with other serotonergic agents like SSRIs or SNRIs, the risk of serotonin syndrome, a potentially life-threatening condition characterized by agitation, confusion, tachycardia, and hyperthermia, is substantially increased."
+  },
+  {
+    "topic": "Psychiatry",
+    "question": "Which of the following is a negative symptom of schizophrenia?",
+    "options": [
+      "Auditory hallucinations",
+      "Delusions of grandeur",
+      "Avolition (lack of motivation)",
+      "Disorganized speech"
+    ],
+    "correctAnswer": "Avolition (lack of motivation)",
+    "explanation": "Negative symptoms of schizophrenia reflect a decrease or lack of normal functions. Avolition refers to a lack of motivation or the ability to initiate and persist in goal-directed activities."
+  },
+  {
+      "topic": "Cardiology",
+      "question": "Which of the following is the most common cause of infective endocarditis in intravenous drug users?",
+      "options": [
+        "Streptococcus viridans",
+        "Staphylococcus aureus",
+        "Enterococci",
+        "HACEK organisms"
+      ],
+      "correctAnswer": "Staphylococcus aureus",
+      "explanation": "Staphylococcus aureus is the most common causative organism of infective endocarditis in intravenous drug users, often affecting the tricuspid valve."
+    },
+    {
+      "topic": "Cardiology",
+      "question": "What is the typical duration of dual antiplatelet therapy (DAPT) following placement of a drug-eluting stent in a patient with stable coronary artery disease?",
+      "options": [
+        "1 month",
+        "3 months",
+        "6 months",
+        "12 months"
+      ],
+      "correctAnswer": "6 months",
+      "explanation": "Current guidelines generally recommend 6 months of dual antiplatelet therapy (typically aspirin and a P2Y12 inhibitor like clopidogrel, prasugrel, or ticagrelor) following the placement of a drug-eluting stent in patients with stable coronary artery disease."
+    },
+    {
+      "topic": "Cardiology",
+      "question": "Which of the following is a sign of severe aortic stenosis?",
+      "options": [
+        "Bounding peripheral pulses",
+        "Widened pulse pressure",
+        "Soft or absent second heart sound (S2)",
+        "Diastolic murmur at the left sternal border"
+      ],
+      "correctAnswer": "Soft or absent second heart sound (S2)",
+      "explanation": "In severe aortic stenosis, the calcified aortic valve leaflets may have limited mobility, leading to a soft or even absent aortic component of the second heart sound (S2)."
+    },
+    {
+      "topic": "Cardiology",
+      "question": "A patient with a history of paroxysmal supraventricular tachycardia (PSVT) presents with an episode. Which of the following vagal maneuvers is often the first-line treatment?",
+      "options": [
+        "Carotid sinus massage",
+        "Valsalva maneuver",
+        "Ocular compression",
+        "Breath-holding"
+      ],
+      "correctAnswer": "Valsalva maneuver",
+      "explanation": "The Valsalva maneuver, which involves attempting to exhale forcefully against a closed airway, is a common first-line vagal maneuver used to terminate episodes of paroxysmal supraventricular tachycardia (PSVT) by increasing vagal tone and slowing AV nodal conduction."
+    },
+    {
+      "topic": "Cardiology",
+      "question": "Which of the following is a risk factor for the development of atrial myxoma?",
+      "options": [
+        "Hypertension",
+        "Hyperlipidemia",
+        "It is usually sporadic and not strongly associated with specific risk factors",
+        "Diabetes mellitus"
+      ],
+      "correctAnswer": "It is usually sporadic and not strongly associated with specific risk factors",
+      "explanation": "Atrial myxomas are the most common primary cardiac tumors, but their etiology is largely unknown, and they are usually sporadic, meaning they occur randomly without strong associations with traditional cardiovascular risk factors."
+    },
+    {
+      "topic": "Neurology",
+      "question": "Which of the following is a common initial symptom of Guillain-Barré syndrome?",
+      "options": [
+        "Severe headache",
+        "Sudden vision loss",
+        "Ascending muscle weakness",
+        "High fever"
+      ],
+      "correctAnswer": "Ascending muscle weakness",
+      "explanation": "Guillain-Barré syndrome typically presents with rapidly progressive, symmetrical ascending muscle weakness, often starting in the legs and progressing upwards."
+    },
+    {
+      "topic": "Neurology",
+      "question": "What is the most common cause of subarachnoid hemorrhage?",
+      "options": [
+        "Trauma",
+        "Ruptured cerebral aneurysm",
+        "Arteriovenous malformation (AVM)",
+        "Hypertensive emergency"
+      ],
+      "correctAnswer": "Ruptured cerebral aneurysm",
+      "explanation": "Rupture of a cerebral aneurysm is the most common non-traumatic cause of subarachnoid hemorrhage, leading to the sudden leakage of blood into the space between the brain and the surrounding membranes."
+    },
+    {
+      "topic": "Neurology",
+      "question": "Which of the following medications is commonly used to treat the motor symptoms of Parkinson's disease by acting as a dopamine precursor?",
+      "options": [
+        "Selegiline",
+        "Amantadine",
+        "Levodopa",
+        "Benztropine"
+      ],
+      "correctAnswer": "Levodopa",
+      "explanation": "Levodopa is a dopamine precursor that is converted to dopamine in the brain. It is a cornerstone of treatment for the motor symptoms of Parkinson's disease, such as bradykinesia, rigidity, and tremor."
+    },
+    {
+      "topic": "Neurology",
+      "question": "Which type of headache is characterized by severe, unilateral periorbital pain associated with autonomic symptoms like lacrimation and nasal congestion?",
+      "options": [
+        "Tension headache",
+        "Migraine",
+        "Cluster headache",
+        "Trigeminal neuralgia"
+      ],
+      "correctAnswer": "Cluster headache",
+      "explanation": "Cluster headaches are characterized by intense, unilateral pain, typically around the eye, temple, or forehead, and are often accompanied by ipsilateral autonomic symptoms such as tearing, nasal congestion, ptosis, and miosis."
+    },
+    {
+      "topic": "Neurology",
+      "question": "What is the primary diagnostic imaging modality for acute stroke?",
+      "options": [
+        "Electroencephalogram (EEG)",
+        "Magnetic resonance imaging (MRI)",
+        "Computed tomography (CT) scan",
+        "Positron emission tomography (PET) scan"
+      ],
+      "correctAnswer": "Computed tomography (CT) scan",
+      "explanation": "A non-contrast computed tomography (CT) scan of the head is the primary initial diagnostic imaging modality for acute stroke. It is crucial for rapidly distinguishing between ischemic and hemorrhagic stroke, which guides subsequent treatment."
+    },
+  {
+    "topic": "Ethics",
+    "question": "A physician is asked to provide treatment that they believe is not in the patient's best interest. What should the physician do?",
+    "options": [
+      "Provide the treatment to respect patient autonomy",
+      "Refuse to provide the treatment and explain their reasoning",
+      "Provide the treatment but express their disagreement",
+      "Seek a court order to override the patient's wishes"
+    ],
+    "correctAnswer": "Refuse to provide the treatment and explain their reasoning",
+    "explanation": "While respecting patient autonomy is crucial, physicians also have a responsibility to act in the patient's best interest (beneficence). If a physician believes a treatment is harmful or ineffective, they should refuse to provide it, explaining their reasoning to the patient and exploring alternative options."
+  },
+  {
+    "topic": "Ethics",
+    "question": "What is the ethical principle that supports a patient's right to confidentiality?",
+    "options": [
+      "Justice",
+      "Beneficence",
+      "Fidelity",
+      "Autonomy"
+    ],
+    "correctAnswer": "Autonomy",
+    "explanation": "The principle of autonomy extends to a patient's right to privacy and confidentiality. Patients have the right to control who has access to their medical information. Fidelity (keeping promises) also supports confidentiality, but the core principle is rooted in respecting the patient's self-determination."
+  },
+  {
+    "topic": "Ethics",
+    "question": "A physician is caring for a minor. Who generally has the legal authority to make medical decisions for the child?",
+    "options": [
+      "The child's siblings",
+      "The child's parents or legal guardians",
+      "The child's teachers",
+      "The physician"
+    ],
+    "correctAnswer": "The child's parents or legal guardians",
+    "explanation": "In most cases, parents or legal guardians have the legal authority to make medical decisions for their minor children. However, there are exceptions, such as in cases of emancipated minors or when a court order grants decision-making authority to someone else."
+  },
+  {
+    "topic": "Ethics",
+    "question": "What is the term for the ethical obligation to distribute healthcare resources fairly among patients?",
+    "options": [
+      "Beneficence",
+      "Nonmaleficence",
+      "Justice",
+      "Autonomy"
+    ],
+    "correctAnswer": "Justice",
+    "explanation": "Justice, in the context of healthcare ethics, refers to the fair and equitable distribution of resources, ensuring that all patients have access to necessary care, regardless of their background or circumstances."
+  },
+  {
+    "topic": "Ethics",
+    "question": "A physician is asked to participate in physician-assisted suicide, which is illegal in their jurisdiction. What is the most ethically sound course of action?",
+    "options": [
+      "Participate to respect patient autonomy",
+      "Refuse to participate due to legal and ethical conflicts",
+      "Seek advice from an ethics committee but ultimately follow the patient's wishes",
+      "Refer the patient to a physician in a jurisdiction where it is legal"
+    ],
+    "correctAnswer": "Refuse to participate due to legal and ethical conflicts",
+    "explanation": "Physician-assisted suicide raises complex ethical and legal issues. If it is illegal in the physician's jurisdiction, refusing to participate is the most ethically sound option. Physicians have a right to conscientious objection to procedures that conflict with their values, and participating in an illegal act would violate both legal and ethical standards."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which of the following hormones is produced by the posterior pituitary gland?",
+    "options": [
+      "Growth hormone",
+      "Prolactin",
+      "Oxytocin",
+      "Adrenocorticotropic hormone (ACTH)"
+    ],
+    "correctAnswer": "Oxytocin",
+    "explanation": "The posterior pituitary gland stores and releases oxytocin and antidiuretic hormone (ADH). It does not produce its own hormones; rather, it receives them from the hypothalamus."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "What is the primary action of parathyroid hormone (PTH)?",
+    "options": [
+      "Lowering blood calcium levels",
+      "Increasing blood calcium levels",
+      "Regulating blood glucose levels",
+      "Stimulating thyroid hormone production"
+    ],
+    "correctAnswer": "Increasing blood calcium levels",
+    "explanation": "Parathyroid hormone (PTH) acts to increase blood calcium levels by stimulating bone resorption, increasing calcium reabsorption in the kidneys, and promoting the activation of vitamin D, which enhances calcium absorption in the intestines."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which of the following is a common symptom of hyperthyroidism?",
+    "options": [
+      "Weight gain",
+      "Bradycardia",
+      "Heat intolerance",
+      "Constipation"
+    ],
+    "correctAnswer": "Heat intolerance",
+    "explanation": "Hyperthyroidism, or an overactive thyroid, leads to increased metabolism and commonly causes heat intolerance, weight loss, tachycardia, and anxiety."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which of the following is a risk factor for developing type 2 diabetes mellitus?",
+    "options": [
+      "Autoimmune destruction of pancreatic beta cells",
+      "Physical activity",
+      "Obesity",
+      "Young age"
+    ],
+    "correctAnswer": "Obesity",
+    "explanation": "Obesity, particularly abdominal obesity, is a major risk factor for developing type 2 diabetes mellitus due to its association with insulin resistance."
+  },
+  {
+    "topic": "Endocrinology",
+    "question": "Which of the following hormones is produced by the adrenal cortex?",
+    "options": [
+      "Epinephrine",
+      "Norepinephrine",
+      "Cortisol",
+      "Dopamine"
+    ],
+    "correctAnswer": "Cortisol",
+    "explanation": "The adrenal cortex produces corticosteroids, including cortisol (a glucocorticoid) and aldosterone (a mineralocorticoid), as well as androgens. The adrenal medulla produces catecholamines like epinephrine and norepinephrine."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following is a common side effect of first-generation antihistamines?",
+    "options": [
+      "Sedation",
+      "Tachycardia",
+      "Hypertension",
+      "Increased appetite"
+    ],
+    "correctAnswer": "Sedation",
+    "explanation": "First-generation antihistamines, such as diphenhydramine, are known for causing sedation as they readily cross the blood-brain barrier."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following is a common adverse effect of long-term corticosteroid use?",
+    "options": [
+      "Hypoglycemia",
+      "Weight loss",
+      "Osteoporosis",
+      "Hypotension"
+    ],
+    "correctAnswer": "Osteoporosis",
+    "explanation": "Long-term use of corticosteroids can lead to osteoporosis due to their effects on bone metabolism."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following medications is used to reverse opioid overdose?",
+    "options": [
+      "Naloxone",
+      "Flumazenil",
+      "Protamine sulfate",
+      "Vitamin K"
+    ],
+    "correctAnswer": "Naloxone",
+    "explanation": "Naloxone is an opioid antagonist used to reverse the effects of opioid overdose by blocking opioid receptors."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following drug classes is commonly used to treat hypertension by blocking the action of angiotensin II?",
+    "options": [
+      "Beta-blockers",
+      "Calcium channel blockers",
+      "ACE inhibitors",
+      "Diuretics"
+    ],
+    "correctAnswer": "ACE inhibitors",
+    "explanation": "ACE inhibitors (angiotensin-converting enzyme inhibitors) block the conversion of angiotensin I to angiotensin II, leading to vasodilation and reduced blood pressure."
+  },
+  {
+    "topic": "Pharmacology",
+    "question": "Which of the following antibiotics is commonly used to treat community-acquired pneumonia and also has activity against atypical bacteria like Mycoplasma pneumoniae?",
+    "options": [
+      "Penicillin",
+      "Cephalexin",
+      "Azithromycin",
+      "Amoxicillin"
+    ],
+    "correctAnswer": "Azithromycin",
+    "explanation": "Macrolides, such as azithromycin, are effective against both typical bacterial causes of community-acquired pneumonia and atypical bacteria."
+  }
+]
