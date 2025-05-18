@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from 'react';
+import ProgressBar from './ProgressBar.jsx'
 
 // Question container is to then loop through each item and render a random question
 
@@ -47,11 +48,11 @@ const QuestionContainer = ({questions, topic}) => {
                             <h3>{topic} Quiz</h3>
                         </div>
                         <div className="col text-end">
-                            <p>Question {currentQuestionIndex + 1} of {questions.length}</p>
+                            <span className="badge rounded-pill px-4 py-2 mt-2 fw-bold questionNumberBadge">Question {currentQuestionIndex + 1} of {questions.length}</span>
                         </div>
                     </div>
                     <div className="row">
-                        <p>Progress bar here</p>
+                        <ProgressBar/>
                     </div>
                     <div className="quiz-card shadow rounded p-5 mt-2">
                         {/* Question content  */}
