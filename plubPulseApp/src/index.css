@@ -21,3 +21,37 @@
 .topic-button:hover{
     background-color:#f3f9ff;
 }
+.quiz-container-submit{
+    width: 100%;
+    background-color: #3964c4;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+    margin-top: 15px;
+    cursor: pointer;
+    font-weight: 500;
+}
+.quiz-container-submit:disabled {
+    background-color: #a0b0d6; /* Lighter blue for disabled state */
+    cursor: not-allowed;
+}
+.next-question-button {
+    width: 100%;
+    background-color: #2cba70; /* Green color from screenshot */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+    margin-top: 15px;
+    cursor: pointer;
+    font-weight: 500;
+}
+.explanation-box {
+    background-color: #e1f5fe; /* Light blue background */
+    border-radius: 4px;
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #9eeaf9;
+}

@@ -1,15 +1,18 @@
-import React from 'react';
+import React, {useState} from 'react';
 import { Link } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import {FaSearch, FaArrowRight, FaBook, FaCheckCircle, FaBookOpen, FaStethoscope } from 'react-icons/fa';
 
 const Home = () => {
 
+    const [gameActive, setGameActive] = useState(false);
+
     const navigate = useNavigate(); // Hook to navigtate
 
     const handleStartQuiz = (topic) => {
         // Navigate to /quiz and send "topic" as data
         navigate("/quiz", {state: {topic}});
+        setGameActive(true);
     }
 
     return (
@@ -22,7 +25,7 @@ const Home = () => {
                     Master medical concepts with our expertly crafted practice questions.
                 </p>
                 <div className="d-flex justify-content-center gap-3 mb-5">
-                    <button className="btn btn-primary px-4 py-2 d-flex align-items-center" onClick={() => handleStartQuiz("Random")}>Start Practice Now
+                    <button className="btn btn-primary px-4 py-2 d-flex align-items-center" onClick={() => handleStartQuiz("Shuffle")}>Start Practice Now
                     </button>
                     <Link to="/topics" className="btn btn-outline-secondary px-4 py-2 d-flex align-items-center"> Browse All Topics <FaSearch className="ms-2" />
                     </Link>
