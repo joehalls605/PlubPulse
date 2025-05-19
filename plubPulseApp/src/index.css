@@ -58,3 +58,20 @@
 .questionNumberBadge{
     background-color: #1e40af;
 }
+.nav-text{
+    color: #5b5b5b;
+    text-decoration:none;
+    padding:11px 14px;
+    border-radius:7px;
+}
+.nav-text:hover{
+    color: #0d6efd;
+
+}
+.nav-text.active{
+    background-color: #f1f8ff;
+    color: #0d6efd;
+}
+.main-nav{
+    height:75px;
+}
