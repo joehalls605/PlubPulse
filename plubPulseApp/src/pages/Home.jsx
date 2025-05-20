@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import { Link, NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import {FaSearch, FaArrowRight, FaBook, FaCheckCircle, FaBookOpen, FaStethoscope } from 'react-icons/fa';
 
@@ -106,7 +106,7 @@ const Home = () => {
                         <div className="card h-100 border-grey shadow-sm p-3">
                             <h3 className="card-title fs-4 mb-3">Pharmacology </h3>
                             <p className="card-text text-muted mb-4">
-                                Test your knowledge in Endocrinology with focused questions.
+                                Test your knowledge in Pharmacology with focused questions.
                             </p>
                             <button
                                 className="text-black w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"

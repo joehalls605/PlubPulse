@@ -1,11 +1,11 @@
-import React from 'react';
+import React, {useState} from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBookMedical, faHouse, faBook, faBorderAll  } from '@fortawesome/free-solid-svg-icons';
 import '../index.css';
-// boostrap?
 
 const Header = () => {
+
     return(
         <header>
             <nav className="navbar navbar-expand-lg navbar-light bg-white shadow-sm main-nav">
@@ -27,7 +27,7 @@ const Header = () => {
                             <li className="nav-item">
                                 <NavLink to="/quiz" className="nav-text mx-3">
                                     <FontAwesomeIcon icon={faBook}/>
-                                    <span className="ms-2">Quiz</span>
+                                    <span className="ms-2" onClick={ () => handleStartQuiz("Shuffle")}>Quiz</span>
                                 </NavLink>
                             </li>
                             <li className="nav-item">

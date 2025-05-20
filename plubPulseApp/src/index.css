@@ -75,3 +75,14 @@
 .main-nav{
     height:75px;
 }
+.topic-card-square {
+    aspect-ratio: 1 / 1;
+}
+.topic-card .topic-button,
+.topic-card-square .topic-button {
+    margin-top: auto;
+}
+
+.topics-container{
+    margin-bottom:200px;
+}
