@@ -86,3 +86,41 @@
 .topics-container{
     margin-bottom:200px;
 }
+
+.topic-button {
+    border: 1px solid #0d6efd;
+    border-radius: 8px;
+    background-color: white;
+    color: #0d6efd;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    font-size:19px;
+}
+
+.topic-button:hover {
+    background-color: #0d6efd;
+    color: white;
+}
+
+.topic-card-square ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 1.5rem;
+}
+
+.topic-card-square li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #495057;
+}
+
+.topic-card-square li:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #0d6efd;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
