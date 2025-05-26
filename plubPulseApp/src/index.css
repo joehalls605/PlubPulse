@@ -124,3 +124,23 @@
     font-size: 1.2em;
 }
 
+.good-to-know{
+    width:100%;
+    border-radius:12px;
+}
+
+.good-to-know-icon-circle{
+    width:60px;
+    height:60px;
+    background-color: #e6f0ff;
+    border-radius:50%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.good-to-know-icon{
+    color: #3366ff;
+    font-size: 20px;
+}
+
+

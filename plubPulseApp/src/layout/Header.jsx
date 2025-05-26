@@ -20,20 +20,20 @@ const Header = () => {
                         <ul className="navbar-nav">
                             <li className="nav-item">
                                 <NavLink to="/" className="nav-text mx-3">
-                                    <FontAwesomeIcon icon={faHouse} />
+                                    <FontAwesomeIcon icon={faHouse}/>
                                     <span className="ms-2">Home</span>
-                                </NavLink>
-                            </li>
-                            <li className="nav-item">
-                                <NavLink to="/quiz" className="nav-text mx-3">
-                                    <FontAwesomeIcon icon={faBook}/>
-                                    <span className="ms-2" onClick={ () => handleStartQuiz("Shuffle")}>Quiz</span>
                                 </NavLink>
                             </li>
                             <li className="nav-item">
                                 <NavLink to="/topics" className="nav-text mx-3">
                                     <FontAwesomeIcon icon={faBorderAll}/>
                                     <span className="ms-2">Topics</span>
+                                </NavLink>
+                            </li>
+                            <li className="nav-item">
+                                <NavLink to="/quiz" className="nav-text mx-3">
+                                    <FontAwesomeIcon icon={faBook}/>
+                                    <span className="ms-2" onClick={() => handleStartQuiz("Shuffle")}>About</span>
                                 </NavLink>
                             </li>
                         </ul>

@@ -49,7 +49,7 @@ const Home = () => {
                                 Test your knowledge in Cardiology with focused questions.
                             </p>
                             <button
-                                className="text-black w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
+                                className="topic-button w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Cardiology")}
                             >
                                 <FaBook className="me-2"/> Start Cardiology Quiz
@@ -64,7 +64,7 @@ const Home = () => {
                                 Test your knowledge in Neurology  with focused questions.
                             </p>
                             <button
-                                className="text-black w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
+                                className="topic-button w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Neurology")}
                             >
                                 <FaBook className="me-2"/> Start Neurology  Quiz
@@ -79,7 +79,7 @@ const Home = () => {
                                 Test your knowledge in Ethics specialty with focused questions.
                             </p>
                             <button
-                                className="text-black w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
+                                className="topic-button w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Ethics")}
                             >
                                 <FaBook className="me-2"/> Start Ethics Quiz
@@ -94,7 +94,7 @@ const Home = () => {
                                 Test your knowledge in Endocrinology    with focused questions.
                             </p>
                             <button
-                                className="text-black w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
+                                className="topic-button w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Endocrinology ")}
                             >
                                 <FaBook className="me-2"/> Start Endocrinology Quiz
@@ -109,7 +109,7 @@ const Home = () => {
                                 Test your knowledge in Pharmacology with focused questions.
                             </p>
                             <button
-                                className="text-black w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
+                                className="topic-button w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Endocrinology ")}
                             >
                                 <FaBook className="me-2"/> Start Endocrinology Quiz
@@ -124,7 +124,7 @@ const Home = () => {
                                 Test your knowledge in Psychiatry with focused questions.
                             </p>
                             <button
-                                className="text-black w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
+                                className="topic-button w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Psychiatry ")}
                             >
                                 <FaBook className="me-2"/> Start Psychiatry Quiz

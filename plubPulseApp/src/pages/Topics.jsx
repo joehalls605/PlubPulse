@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import {useNavigate} from "react-router-dom";
 import { FaBook, FaHeartbeat, FaBrain, FaBalanceScale, FaFlask, FaPills, FaUserMd } from "react-icons/fa";
-
+import GoodToKnow from '../components/GoodToKnow'
 
 const Topics = () => {
 
@@ -173,6 +173,7 @@ const Topics = () => {
                     </div>
                 </div>
             </div>
+            <GoodToKnow/>
         </div>
     )
 }
