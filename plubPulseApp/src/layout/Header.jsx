@@ -31,7 +31,7 @@ const Header = () => {
                                 </NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink to="/quiz" className="nav-text mx-3">
+                                <NavLink to="/about" className="nav-text mx-3">
                                     <FontAwesomeIcon icon={faBook}/>
                                     <span className="ms-2" onClick={() => handleStartQuiz("Shuffle")}>About</span>
                                 </NavLink>

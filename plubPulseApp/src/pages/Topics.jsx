@@ -16,7 +16,7 @@ const Topics = () => {
     return (
         <div className="container topics-container">
             <div className="row mt-5 text-center mb-2">
-                <h2 className="display-5 fw-semibold">Medical Specialties</h2>
+                <h2 className="mb-3 fw-bold display-4">Medical Specialties</h2>
                 <p className="lead mx-auto" style={{maxWidth: "800px"}}>Choose a specialty to focus your exam preparation</p>
             </div>
             <div className="row mb-5">

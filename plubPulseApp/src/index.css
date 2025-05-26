@@ -142,5 +142,19 @@
     color: #3366ff;
     font-size: 20px;
 }
+.about-bullseye{
+    width:120px;
+    height:120px;
+    border-radius:50%;
+    background-color: #dbe3f8;
+    color: #3366ff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.our-mission{
+    background-color:#eef2fb;
+    border-radius:10px;
+}
 
 
