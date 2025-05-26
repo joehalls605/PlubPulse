@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaUserFriends, FaClock, FaBullseye } from 'react-icons/fa';
+import { FaBook, FaBullseye, FaTrophy } from 'react-icons/fa';
 
 const WhyChoose = () => {
 
@@ -7,41 +7,40 @@ const WhyChoose = () => {
     return (
         <div className="container mt-6">
             <div className="row mb-4 d-flex align-items-center justify-content-center text-center">
-                <h4>Good to Know</h4>
-                <p className="text-muted">Key insights to help you prepare effectively</p>
+                <h4>Why Choose PLAB Pulse?</h4>
+                <p className="text-muted">A platform designed with medical students in mind</p>
             </div>
 
             <div className="d-flex flex-row gap-3 align-items-center justify-content-center">
                 <div className="good-to-know card text-center p-3 shadow-sm">
                     <div className="good-to-know-icon-circle mx-auto mb-3">
-                        <FaUserFriends className="good-to-know-icon"/>
+                        <FaBook className="good-to-know-icon"/>
                     </div>
-                    <h5 className="fw-bold mb-1">85%</h5>
+                    <h5 className="fw-bold mb-1">Comprehensive Content</h5>
                     <p className="text-muted mb-0">
-                        Average pass rate<br/>
-                        for well-prepared<br/>
-                        candidates
-                    </p>
-                </div>
-                <div className="good-to-know card text-center p-3 shadow-sm">
-                    <div className="good-to-know-icon-circle mx-auto mb-3">
-                        <FaClock className="good-to-know-icon"/>
-                    </div>
-                    <h5 className="fw-bold mb-1">3 months</h5>
-                    <p className="text-muted mb-0">
-                        Recommended<br/>
-                        study duration for<br/>
-                        optimal results
+                        Extensive question bank covering all<br/>
+                        medical specialties tested in PLAB 1<br/>
                     </p>
                 </div>
                 <div className="good-to-know card text-center p-3 shadow-sm">
                     <div className="good-to-know-icon-circle mx-auto mb-3">
                         <FaBullseye className="good-to-know-icon"/>
                     </div>
-                    <h5 className="fw-bold mb-1">70%</h5>
+                    <h5 className="fw-bold mb-1">Focused Practice</h5>
                     <p className="text-muted mb-0">
-                        Minimum score<br/>
-                        required to pass<br/>
+                        Practice by specialty or take<br/>
+                        comprehensive tests to identify<br/>
+                        knowledge gaps<br/>
+                    </p>
+                </div>
+                <div className="good-to-know card text-center p-3 shadow-sm">
+                    <div className="good-to-know-icon-circle mx-auto mb-3">
+                        <FaTrophy className="good-to-know-icon"/>
+                    </div>
+                    <h5 className="fw-bold mb-1">Proven Results</h5>
+                    <p className="text-muted mb-0">
+                        Trusted by thousands of medical<br/>
+                        graduates who have successfully passed<br/>
                         PLAB 1
                     </p>
                 </div>

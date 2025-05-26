@@ -1,5 +1,7 @@
 import React from 'react';
 import { FaBullseye } from 'react-icons/fa';
+import WhyChoose from "../components/WhyChoose.jsx";
+import AboutExamination from "../components/AboutExamination.jsx";
 
 const About = () => {
 
@@ -8,7 +10,7 @@ const About = () => {
             <div className="text-center mb-5">
                 <h1 className="mb-3 fw-bold display-4">About Us</h1>
                 <p className="lead mx-auto" style={{maxWidth: "800px"}}>
-                    We're here to support  medical graduates every step of the way—offering guidance,
+                    We're here to support medical graduates every step of the way—offering guidance,
                     resources, and encouragement to help you confidently prepare for PLAB 1 and begin your journey
                     toward a medical career in the UK.
                 </p>
@@ -33,11 +35,12 @@ const About = () => {
             </div>
             <div className="mt-5">
                 <div className="row">
-                    <h3>Why Choose PLAB Pulse?</h3>
-                    <p>Designed with medical students in mind</p>
+                    <WhyChoose/>
                 </div>
+            </div>
+            <div className="mt-5">
                 <div className="row">
-
+                    <AboutExamination/>
                 </div>
             </div>
         </div>
