@@ -156,5 +156,16 @@
     background-color:#eef2fb;
     border-radius:10px;
 }
+.how-we-help-icon{
+    width:90px;
+    height:90px;
+    border-radius:50%;
+    background-color: #dbe3f8;
+    color: #3366ff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin: 0px 15px;
+}
 
 

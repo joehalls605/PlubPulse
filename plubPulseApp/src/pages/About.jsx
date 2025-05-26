@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaBullseye } from 'react-icons/fa';
 import WhyChoose from "../components/WhyChoose.jsx";
-import AboutExamination from "../components/AboutExamination.jsx";
+import AboutExamination from "../components/HowWeHelp.jsx";
 
 const About = () => {
 
