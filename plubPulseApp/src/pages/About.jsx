@@ -2,6 +2,7 @@ import React from 'react';
 import { FaBullseye } from 'react-icons/fa';
 import WhyChoose from "../components/WhyChoose.jsx";
 import AboutExamination from "../components/HowWeHelp.jsx";
+import studyingStudent from '../assets/studyingStudent.png';
 
 const About = () => {
 
@@ -28,9 +29,10 @@ const About = () => {
                     </p>
                 </div>
                 <div className="col-md-4 d-flex justify-content-center align-items-center">
-                    <div className="about-bullseye">
-                        <FaBullseye size={60}/>
-                    </div>
+                    <img className="mission-image"
+                    src={studyingStudent}
+                    alt="studying student"
+                    />
                 </div>
             </div>
             <div className="mt-5">

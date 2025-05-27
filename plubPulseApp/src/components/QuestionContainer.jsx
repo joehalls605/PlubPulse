@@ -39,6 +39,14 @@ const QuestionContainer = ({questions, topic}) => {
     // 4. Get the current question
     const currentQuestion = questions[currentQuestionIndex];
 
+    const handleRetakeQuiz = () => {
+        setCurrentQuestionIndex(0);
+        setUserSelectedAnswer("");
+        setShowExplanation(false);
+        setScore(0);
+        setCorrect(false);
+    }
+
     return (
         <div className="container">
             <div className="row justify-content-center">
@@ -54,7 +62,7 @@ const QuestionContainer = ({questions, topic}) => {
                     <div className="row">
                         <ProgressBar questions={questions} currentQuestionIndex={currentQuestionIndex}/>
                     </div>
-                    <div className="quiz-card shadow rounded p-5 mt-2">
+                    <div className="quiz-card shadow rounded p-5 mt-2 mb-5">
                         {/* Question content  */}
                         <div className="col">
                             <div className="row">
@@ -112,7 +120,20 @@ const QuestionContainer = ({questions, topic}) => {
                                                 <button onClick={handleNextQuestion}
                                                         className="next-question-button">Next question</button>
                                             ) : (
-                                                <p className="alert alert-success mt-3">Quiz completed!</p>
+                                                <div className="quiz-completion">
+                                                    <div className="alert alert-success mt-3 text-center">
+                                                        <h4>🎉 Quiz Completed!</h4>
+                                                        <p className="mb-2">Your final score: <strong>{score} out of {questions.length}</strong></p>
+                                                        <p className="mb-1">
+                                                            You got {Math.round((score / questions.length) * 100)}% correct.
+                                                        </p>
+                                                    </div>
+                                                    <div className="text-center mt-3">
+                                                        <button className="btn btn-primary me-2"
+                                                                onClick={handleRetakeQuiz}
+                                                        >Retake Quiz</button>
+                                                    </div>
+                                                </div>
                                             )}
                                         </div>
                                     )}

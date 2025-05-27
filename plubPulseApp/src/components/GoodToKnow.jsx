@@ -7,7 +7,7 @@ const GoodToKnow = () => {
     return (
         <div className="container mt-6">
             <div className="row mb-4 d-flex align-items-center justify-content-center text-center">
-                <h4>Good to Know</h4>
+                <h4>Essential insights to boost your PLAB 1 success</h4>
                 <p className="text-muted">Key insights to help you prepare effectively</p>
             </div>
 
