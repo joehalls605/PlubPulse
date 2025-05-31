@@ -168,6 +168,19 @@
     margin: 0px 15px;
 }
 .mission-image{
-    width:250px;
+    width:260px;
+}
+
+.quiz-card{
+    margin-bottom:500px;
+}
+.book-symbol{
+ width:200px;
+}
+
+.why-choose-card{
+    height:350px;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
 }
 

@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import {FaSearch, FaArrowRight, FaBook, FaCheckCircle, FaBookOpen, FaStethoscope } from 'react-icons/fa';
 import HowWeHelp from '../components/HowWeHelp';
+import WhyChoose from '../components/WhyChoose';
 
 const Home = () => {
 

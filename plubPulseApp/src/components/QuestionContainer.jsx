@@ -62,7 +62,7 @@ const QuestionContainer = ({questions, topic}) => {
                     <div className="row">
                         <ProgressBar questions={questions} currentQuestionIndex={currentQuestionIndex}/>
                     </div>
-                    <div className="quiz-card shadow rounded p-5 mt-2 mb-5">
+                    <div className="quiz-card shadow rounded p-5 mt-2">
                         {/* Question content  */}
                         <div className="col">
                             <div className="row">

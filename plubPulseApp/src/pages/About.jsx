@@ -16,16 +16,19 @@ const About = () => {
                     toward a medical career in the UK.
                 </p>
             </div>
-            <div className="our-mission row p-5 d-flex">
-                <div className="col-md-8">
+            <div className="our-mission row p-5 d-flex mb-4">
+                <div className="col-md-8 pe-6">
                     <h3 className="text-dark fw-semibold mb-3">Our Mission</h3>
-                    <p className="text-muted fs-6 lh-base mb-0">
-                        Pulse is dedicated to helping international medical graduates successfully pass the PLAB 1
+                    <p className="fs-7 lh-base mb-0">
+                        PLAB Pulse is dedicated to helping international medical graduates successfully pass the PLAB 1
                         examination through comprehensive practice questions, detailed explanations, and structured
                         learning paths.
                         <br/>
                         <br/>We understand the challenges of preparing for this crucial exam and have created a platform
-                        that makes studying more effective, engaging, and accessible.
+                        that makes studying more effective, engaging, and accessible. Our resources are designed to
+                        simulate real exam conditions, boost your confidence, and reinforce core medical knowledge.
+                        Whether you're just beginning your PLAB journey or refining your final review, PLAB Pulse
+                        supports you every step of the way.
                     </p>
                 </div>
                 <div className="col-md-4 d-flex justify-content-center align-items-center">
