@@ -4,6 +4,9 @@ import { useNavigate } from 'react-router-dom';
 import {FaSearch, FaArrowRight, FaBook, FaCheckCircle, FaBookOpen, FaStethoscope } from 'react-icons/fa';
 import HowWeHelp from '../components/HowWeHelp';
 import WhyChoose from '../components/WhyChoose';
+import BookSymbol from '../assets/book-symbol.png';
+import TickSymbol from '../assets/tick-symbol.png';
+import SpecialtyFocusSymbol from '../assets/specialty-focus-symbol.png';
 
 const Home = () => {
 
@@ -37,7 +40,7 @@ const Home = () => {
             {/* Topic Categories Section */}
             <div className="mb-4">
                 <div className="d-flex justify-content-between align-items-center mb-4">
-                    <h2 className="fs-2 mb-0 mt-4">Popular Topic Categories</h2>
+                    <h2 className="fs-2 mb-0 mt-4 text-center">Popular Topic Categories</h2>
                     <Link to="/topics" className="text-primary text-decoration-none">
                         View all topics <FaArrowRight className="ms-1" size={14} />
                     </Link>
@@ -137,53 +140,47 @@ const Home = () => {
             </div>
             {/* Why Choose PLAB Pulse Section */}
             <div className="py-5">
-                <h2 className="text-center fw-bold mb-5 mt-4">Why Choose PLAB Pulse?</h2>
+                <h2 className="fs-2 mb-4 mt-3 text-center">Learn With Us</h2>
                 <div className="row justify-content-center">
                     {/* Quality Questions Card */}
                     <div className="col-md-4 mb-4">
-                    <div className="card h-100 border-grey shadow-sm text-center p-5">
-                        <div className="mx-auto mb-4">
-                            <div className="rounded-circle bg-primary d-flex align-items-center justify-content-center"
-                                 style={{width: "70px", height: "70px"}}>
-                                <FaCheckCircle size={32} className="text-white"/>
-                            </div>
-                        </div>
-                        <h4 className="card-title mb-3">Quality Questions</h4>
-                        <p className="card-text text-muted"> Realistic PLAB-style questions crafted by experienced
-                            practitioners to match exam patterns.</p>
-
-                    </div>
-                    </div>
-
-                    {/* Detailed Explanations Card */}
-                    <div className="col-md-4 mb-4">
-                        <div className="card h-100 border-greyshadow-sm text-center p-5">
-                            <div className="mx-auto mb-4">
-                                <div
-                                    className="rounded-circle bg-primary d-flex align-items-center justify-content-center"
-                                    style={{width: "70px", height: "70px"}}>
-                                    <FaBookOpen size={32} className="text-white"/>
+                        <div className="card h-100 border-greyshadow-sm text-center p-4">
+                            <div className="mx-auto mb-3">
+                                <div>
+                                    <img src={TickSymbol} className="book-symbol"/>
                                 </div>
                             </div>
-                            <h4 className="card-title mb-3">Detailed Explanations</h4>
-                            <p className="card-text text-muted">
-                                Learn from comprehensive explanations with evidence-based insights for each question.
+                            <h4 className="card-title mb-3">Quality Questions</h4>
+                            <p className="card-text text-muted mb-3">
+                                Realistic PLAB-style questions crafted by experienced
+                                practitioners to match exam patterns.
                             </p>
                         </div>
                     </div>
 
-                    {/* Specialty Focus Card */}
+                    {/* Detailed Explanations Card */}
                     <div className="col-md-4 mb-4">
-                        <div className="card h-100 border-grey shadow-sm text-center p-5">
-                            <div className="mx-auto mb-4">
-                                <div
-                                    className="rounded-circle bg-primary d-flex align-items-center justify-content-center"
-                                    style={{width: "70px", height: "70px"}}>
-                                    <FaStethoscope size={32} className="text-white"/>
+                        <div className="card h-100 border-greyshadow-sm text-center p-4">
+                            <div className="mx-auto mb-3">
+                                <div>
+                                    <img src={BookSymbol} className="book-symbol"/>
+                                </div>
+                            </div>
+                            <h4 className="card-title mb-3">Detailed Explanations</h4>
+                            <p className="card-text text-muted mb-3">
+                                Learn from comprehensive explanations with evidence-based insights for each question.
+                            </p>
+                        </div>
+                    </div>
+                    <div className="col-md-4 mb-4">
+                        <div className="card h-100 border-greyshadow-sm text-center p-4">
+                            <div className="mx-auto mb-3">
+                                <div>
+                                    <img src={SpecialtyFocusSymbol} className="book-symbol"/>
                                 </div>
                             </div>
                             <h4 className="card-title mb-3">Specialty Focus</h4>
-                            <p className="card-text text-muted">
+                            <p className="card-text text-muted mb-3">
                                 Target specific medical specialties to strengthen knowledge gaps and optimize study
                                 time.
                             </p>

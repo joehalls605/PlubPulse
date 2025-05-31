@@ -15,7 +15,7 @@ const Topics = () => {
 
     return (
         <div className="container topics-container">
-            <div className="row mt-5 text-center mb-2">
+            <div className="row mt-5 text-center">
                 <h2 className="mb-3 fw-bold display-4">Medical Specialties</h2>
                 <p className="lead mx-auto" style={{maxWidth: "800px"}}>Choose a specialty to focus your exam preparation</p>
             </div>
@@ -23,10 +23,10 @@ const Topics = () => {
                 <div className="row g-4">
                     {/* Cardiology Card */}
                     <div className="col-md-4">
-                        <div className="topic-card-square card rounded-4 p-4 border-0 shadow mb-4">
+                        <div className="topic-card-square card rounded-4 p-5 border-1 shadow mb-4">
                             <div className="card-title fs-4 d-flex mb-3">
                                 <h3 className="card-title fs-4">Cardiology</h3>
-                                <FaHeartbeat className="ms-2 text-danger mt-1"/>
+                                <FaHeartbeat className="ms-2 text-primary mt-1"/>
                             </div>
                             <p className="card-text text-muted mb-4 mt-2">
                                 Topics covered:
@@ -42,16 +42,16 @@ const Topics = () => {
                                 className="topic-button w-100 p-2 d-flex align-items-center justify-content-center"
                                 onClick={() => handleStartQuiz("Cardiology")}
                             >
-                                <FaHeartbeat className="me-2"/> Start Cardiology Quiz
+                                <FaHeartbeat className="me-2"/> Start Quiz
                             </button>
                         </div>
                     </div>
                     {/* Neurology Card */}
                     <div className="col-md-4">
-                        <div className="topic-card-square card rounded-4 p-4 border-0 shadow mb-4">
+                        <div className="topic-card-square card rounded-4 p-5 border-1 shadow mb-4">
                             <div className="card-title fs-4 d-flex mb-3">
                                 <h3 className="card-title fs-4">Neurology</h3>
-                                <FaBrain className="ms-2 text-danger mt-1"/>
+                                <FaBrain className="ms-2 text-primary mt-1"/>
                             </div>
                             <p className="card-text text-muted mb-4 mt-2">
                                 Topics covered:
@@ -67,16 +67,16 @@ const Topics = () => {
                                 className="topic-button w-100 p-2 d-flex align-items-center justify-content-center"
                                 onClick={() => handleStartQuiz("Neurology")}
                             >
-                                <FaBrain className="me-2"/> Start Neurology Quiz
+                                <FaBrain className="me-2"/> Start Quiz
                             </button>
                         </div>
                     </div>
                     {/* Ethics Card */}
                     <div className="col-md-4">
-                        <div className="topic-card-square card rounded-4 p-4 border-0 shadow mb-4">
+                        <div className="topic-card-square card rounded-4 p-5 border-1 shadow mb-4">
                             <div className="card-title fs-4 d-flex mb-3">
                                 <h3 className="card-title fs-4">Ethics</h3>
-                                <FaBalanceScale className="ms-2 text-success mt-1"/>
+                                <FaBalanceScale className="ms-2 text-primary mt-1"/>
                             </div>
                             <p className="card-text text-muted mb-4 mt-2">
                                 Topics covered:
@@ -92,16 +92,16 @@ const Topics = () => {
                                 className="topic-button w-100 p-2 d-flex align-items-center justify-content-center"
                                 onClick={() => handleStartQuiz("Ethics")}
                             >
-                                <FaBalanceScale className="me-2"/> Start Ethics Quiz
+                                <FaBalanceScale className="me-2"/> Start Quiz
                             </button>
                         </div>
                     </div>
                     {/* Endocrinology Card */}
                     <div className="col-md-4">
-                        <div className="topic-card-square card rounded-4 p-4 border-0 shadow mb-4">
+                        <div className="topic-card-square card rounded-4 p-5 border-1 shadow mb-4">
                             <div className="card-title fs-4 d-flex mb-3">
                                 <h3 className="card-title fs-4">Endocrinology</h3>
-                                <FaFlask className="ms-2 text-warning mt-1"/>
+                                <FaFlask className="ms-2 text-primary mt-1"/>
                             </div>
                             <p className="card-text text-muted mb-4 mt-2">
                                 Topics covered:
@@ -123,10 +123,10 @@ const Topics = () => {
                     </div>
                     {/* Pharmacology Card */}
                     <div className="col-md-4">
-                        <div className="topic-card-square card rounded-4 p-4 border-0 shadow mb-4">
+                        <div className="topic-card-square card rounded-4 p-5 border-1 shadow mb-4">
                             <div className="card-title fs-4 d-flex mb-3">
                                 <h3 className="card-title fs-4">Pharmacology</h3>
-                                <FaPills className="ms-2 text-info mt-1"/>
+                                <FaPills className="ms-2 text-primary mt-1"/>
                             </div>
                             <p className="card-text text-muted mb-4 mt-2">
                                 Topics covered:
@@ -148,10 +148,10 @@ const Topics = () => {
                     </div>
                     {/* Psychiatry Card */}
                     <div className="col-md-4">
-                        <div className="topic-card-square card rounded-4 p-4 border-0 shadow mb-4">
+                        <div className="topic-card-square card rounded-4 p-5 border-1 shadow mb-4">
                             <div className="card-title fs-4 d-flex mb-3">
                                 <h3 className="card-title fs-4">Psychiatry</h3>
-                                <FaUserMd className="ms-2 text-secondary mt-1"/>
+                                <FaUserMd className="ms-2 text-primary mt-1"/>
                             </div>
                             <p className="card-text text-muted mb-4 mt-2">
                                 Topics covered:
@@ -173,7 +173,7 @@ const Topics = () => {
                     </div>
                 </div>
             </div>
-            <GoodToKnow/>
+            {/*<GoodToKnow/>*/}
         </div>
     )
 }

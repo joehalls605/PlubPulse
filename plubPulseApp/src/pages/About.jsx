@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaBullseye } from 'react-icons/fa';
 import WhyChoose from "../components/WhyChoose.jsx";
-import AboutExamination from "../components/HowWeHelp.jsx";
+import HowWeHelp from "../components/HowWeHelp.jsx";
 import studyingStudent from '../assets/studyingStudent.png';
 
 const About = () => {
@@ -45,7 +45,7 @@ const About = () => {
             </div>
             <div className="mt-5">
                 <div className="row">
-                    <AboutExamination/>
+                    <HowWeHelp/>
                 </div>
             </div>
         </div>
