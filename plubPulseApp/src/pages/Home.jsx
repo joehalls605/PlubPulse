@@ -48,7 +48,7 @@ const Home = () => {
                 <div className="row g-4">
                     {/* Cardiology Card */}
                     <div className="col-md-4">
-                        <div className="card h-100 border-grey shadow-sm p-3">
+                        <div className="card h-400 border-grey shadow-sm p-3">
                             <h3 className="card-title fs-4 mb-3">Cardiology</h3>
                             <p className="card-text text-muted mb-4">
                                 Test your knowledge in Cardiology with focused questions.
@@ -63,7 +63,7 @@ const Home = () => {
                     </div>
                     {/* Neurology Card */}
                     <div className="col-md-4">
-                        <div className="card h-100 border-grey shadow-sm p-3">
+                        <div className="card h-200 border-grey shadow-sm p-3">
                             <h3 className="card-title fs-4 mb-3">Neurology </h3>
                             <p className="card-text text-muted mb-4">
                                 Test your knowledge in Neurology  with focused questions.
@@ -78,7 +78,7 @@ const Home = () => {
                     </div>
                     {/* Ethics  Card */}
                     <div className="col-md-4">
-                        <div className="card h-100 border-grey shadow-sm p-3">
+                        <div className="card h-200 border-grey shadow-sm p-3">
                             <h3 className="card-title fs-4 mb-3">Ethics  </h3>
                             <p className="card-text text-muted mb-4">
                                 Test your knowledge in Ethics specialty with focused questions.
@@ -93,7 +93,7 @@ const Home = () => {
                     </div>
                     {/* Endocrinology Card */}
                     <div className="col-md-4">
-                        <div className="card h-100 border-grey shadow-sm p-3">
+                        <div className="card h-200 border-grey shadow-sm p-3">
                             <h3 className="card-title fs-4 mb-3">Endocrinology   </h3>
                             <p className="card-text text-muted mb-4">
                                 Test your knowledge in Endocrinology    with focused questions.
@@ -108,7 +108,7 @@ const Home = () => {
                     </div>
                     {/* Pharmacology Card */}
                     <div className="col-md-4">
-                        <div className="card h-100 border-grey shadow-sm p-3">
+                        <div className="card h-200 border-grey shadow-sm p-3">
                             <h3 className="card-title fs-4 mb-3">Pharmacology </h3>
                             <p className="card-text text-muted mb-4">
                                 Test your knowledge in Pharmacology with focused questions.
@@ -123,7 +123,7 @@ const Home = () => {
                     </div>
                     {/* Psychiatry Card */}
                     <div className="col-md-4">
-                        <div className="card h-100 border-grey shadow-sm p-3">
+                        <div className="card h-200 border-grey shadow-sm p-3">
                             <h3 className="card-title fs-4 mb-3">Psychiatry </h3>
                             <p className="card-text text-muted mb-4">
                                 Test your knowledge in Psychiatry with focused questions.

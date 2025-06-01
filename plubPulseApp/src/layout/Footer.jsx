@@ -52,7 +52,7 @@ const Footer = () => {
                                 <Link to="/" className="footer-link">Home</Link>
                             </li>
                             <li className="mb-2">
-                                <Link to="/quiz" className="footer-link">Quiz</Link>
+                                <Link to="/about" className="footer-link">About</Link>
                             </li>
                             <li className="mb-2">
                                 <Link to="/topics" className="footer-link">Topics</Link>
@@ -67,13 +67,13 @@ const Footer = () => {
                             <span className="me-2">
                                 <FontAwesomeIcon icon={faMapPin}/>
                             </span>
-                            <span className="text-muted">London, United Kingdom</span>
+                            <span className="text-muted footer-contact-link">21 Birch Street, London, United Kingdom</span>
                         </div>
                         <div className="d-flex mb-2">
                             <span>
                                 <FontAwesomeIcon icon={faEnvelope}/>
                             </span>
-                            <a href="mailto:contact@plabpulse.com" className="text-decoration-none text-muted">contact@plabpulse.com</a>
+                            <a href="mailto:contact@plabpulse.com" className="text-decoration-none text-muted footer-contact-link">contact@plabpulse.com</a>
                         </div>
                     </div>
                     <hr />
