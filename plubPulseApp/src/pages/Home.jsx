@@ -40,7 +40,7 @@ const Home = () => {
             {/* Topic Categories Section */}
             <div className="mb-4">
                 <div className="d-flex justify-content-between align-items-center mb-4">
-                    <h2 className="fs-2 mb-0 mt-4 text-center">Popular Topic Categories</h2>
+                    <h2 className="fs-2 mb-0 text-center">Popular Topics</h2>
                     <Link to="/topics" className="text-primary text-decoration-none">
                         View all topics <FaArrowRight className="ms-1" size={14} />
                     </Link>
@@ -48,7 +48,7 @@ const Home = () => {
                 <div className="row g-4">
                     {/* Cardiology Card */}
                     <div className="col-md-4">
-                        <div className="card h-400 border-grey shadow-sm p-3">
+                        <div className="card border-grey shadow-sm p-4">
                             <h3 className="card-title fs-4 mb-3">Cardiology</h3>
                             <p className="card-text text-muted mb-4">
                                 Test your knowledge in Cardiology with focused questions.
@@ -57,13 +57,13 @@ const Home = () => {
                                 className="topic-button w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Cardiology")}
                             >
-                                <FaBook className="me-2"/> Start Cardiology Quiz
+                                <FaBook className="me-2"/> Start Cardiology
                             </button>
                         </div>
                     </div>
                     {/* Neurology Card */}
                     <div className="col-md-4">
-                        <div className="card h-200 border-grey shadow-sm p-3">
+                        <div className="card border-grey shadow-sm p-4">
                             <h3 className="card-title fs-4 mb-3">Neurology </h3>
                             <p className="card-text text-muted mb-4">
                                 Test your knowledge in Neurology  with focused questions.
@@ -72,13 +72,13 @@ const Home = () => {
                                 className="topic-button w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Neurology")}
                             >
-                                <FaBook className="me-2"/> Start Neurology  Quiz
+                                <FaBook className="me-2"/> Start Neurology
                             </button>
                         </div>
                     </div>
                     {/* Ethics  Card */}
                     <div className="col-md-4">
-                        <div className="card h-200 border-grey shadow-sm p-3">
+                        <div className="card border-grey shadow-sm p-4">
                             <h3 className="card-title fs-4 mb-3">Ethics  </h3>
                             <p className="card-text text-muted mb-4">
                                 Test your knowledge in Ethics specialty with focused questions.
@@ -87,13 +87,13 @@ const Home = () => {
                                 className="topic-button w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Ethics")}
                             >
-                                <FaBook className="me-2"/> Start Ethics Quiz
+                                <FaBook className="me-2"/> Start Ethics
                             </button>
                         </div>
                     </div>
                     {/* Endocrinology Card */}
                     <div className="col-md-4">
-                        <div className="card h-200 border-grey shadow-sm p-3">
+                        <div className="card border-grey shadow-sm p-4">
                             <h3 className="card-title fs-4 mb-3">Endocrinology   </h3>
                             <p className="card-text text-muted mb-4">
                                 Test your knowledge in Endocrinology    with focused questions.
@@ -102,28 +102,28 @@ const Home = () => {
                                 className="topic-button w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Endocrinology ")}
                             >
-                                <FaBook className="me-2"/> Start Endocrinology Quiz
+                                <FaBook className="me-2"/> Start Endocrinology
                             </button>
                         </div>
                     </div>
                     {/* Pharmacology Card */}
                     <div className="col-md-4">
-                        <div className="card h-200 border-grey shadow-sm p-3">
+                        <div className="card border-grey shadow-sm p-4">
                             <h3 className="card-title fs-4 mb-3">Pharmacology </h3>
                             <p className="card-text text-muted mb-4">
                                 Test your knowledge in Pharmacology with focused questions.
                             </p>
                             <button
                                 className="topic-button w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
-                                onClick={() => handleStartQuiz("Endocrinology ")}
+                                onClick={() => handleStartQuiz("Pharmacology")}
                             >
-                                <FaBook className="me-2"/> Start Endocrinology Quiz
+                                <FaBook className="me-2"/> Start Pharmacology
                             </button>
                         </div>
                     </div>
                     {/* Psychiatry Card */}
                     <div className="col-md-4">
-                        <div className="card h-200 border-grey shadow-sm p-3">
+                        <div className="card border-grey shadow-sm p-4">
                             <h3 className="card-title fs-4 mb-3">Psychiatry </h3>
                             <p className="card-text text-muted mb-4">
                                 Test your knowledge in Psychiatry with focused questions.
@@ -132,7 +132,7 @@ const Home = () => {
                                 className="topic-button w-100 h-50 p-2 d-flex align-items-center justify-content-center topic-button"
                                 onClick={() => handleStartQuiz("Psychiatry ")}
                             >
-                                <FaBook className="me-2"/> Start Psychiatry Quiz
+                                <FaBook className="me-2"/> Start Psychiatry
                             </button>
                         </div>
                     </div>
@@ -140,7 +140,7 @@ const Home = () => {
             </div>
             {/* Why Choose PLAB Pulse Section */}
             <div className="py-5">
-                <h2 className="fs-2 mb-4 mt-3 text-center">Learn With Us</h2>
+                <h2 className="fs-2 mb-4 mt-3 text-center">Resources For Your PLAB Success</h2>
                 <div className="row justify-content-center">
                     {/* Quality Questions Card */}
                     <div className="col-md-4 mb-4">
@@ -186,7 +186,6 @@ const Home = () => {
                             </p>
                         </div>
                     </div>
-                    <HowWeHelp/>
                 </div>
             </div>
         </div>

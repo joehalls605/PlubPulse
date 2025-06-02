@@ -9,7 +9,7 @@ const HowWeHelp = () => {
 
             <div className="d-flex flex-row">
                 <div className="col-md-8">
-                    <h3 className="text-center">Let's Master the PLAB 1 Examination</h3>
+                    <h3>Let's Master the PLAB 1 Examination</h3>
                     <p className=" mt-4 mb-1"><strong>PLAB 1</strong> is a challenging computer-based test
                         with 180 multiple-choice questions covering all major medical specialties.
                         With only 3 hours to complete the exam and a 70% passing requirement, preparation is crucial.
