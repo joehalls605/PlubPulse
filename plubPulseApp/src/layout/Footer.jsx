@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from "react-router-dom";
 import '../index.css';
-import { faBookMedical, faMapPin, faEnvelope } from "@fortawesome/free-solid-svg-icons";
+import {faBookMedical, faMapPin, faEnvelope, faHeartbeat} from "@fortawesome/free-solid-svg-icons";
 import {
     faFacebookF,
     faTwitter,
@@ -19,11 +19,11 @@ const Footer = () => {
                     <div className="col-md-4">
                         <div className="d-flex align-items-center mb-3">
                             <span className="me-2">
-                                <FontAwesomeIcon icon={faBookMedical}/>
+                                <FontAwesomeIcon icon={faHeartbeat} className="me-2" />
                             </span>
-                            <h5 className="fw-bold mb-0">
-                                <span className="text-primary">PLAB</span>Pulse
-                            </h5>
+                            <p className="mb-0">
+                                <span className="text-primary fw-2">PLAB</span>Pulse
+                            </p>
                         </div>
                         <p className="text-muted small">
                             PLAB Pulse provides comprehensive study materials and practice tests to help medical professionals prepare for the PLAB examination.

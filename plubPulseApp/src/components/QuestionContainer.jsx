@@ -94,7 +94,7 @@ const QuestionContainer = ({questions, topic}) => {
                                                     onChange={() => setUserSelectedAnswer(option)}
                                                     disabled={showExplanation} // disable after answer is submitted
                                                 />
-                                                {option}
+                                                <span className="ms-2">{option}</span>
                                             </label>
                                         </div>
                                     );
